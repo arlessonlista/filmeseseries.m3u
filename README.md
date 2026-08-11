@@ -1,5 +1,3 @@
-# filmeseseries.m3u
-sua lista completa de filmes online
 #EXTM3U
 #EXTM3U x-tvg-url="http://kraewert.top:80/xmltv.php?username=kHCf7gDxJx3Eb4&password=3dEyWAtr4Fu7Rf"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
