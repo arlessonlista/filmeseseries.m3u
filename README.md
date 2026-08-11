@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTM3U x-tvg-url="http://kraewert.top:80/xmltv.php?username=kHCf7gDxJx3Eb4&password=3dEyWAtr4Fu7Rf"
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="24HFilmes" tvg-name="24H Filmes Ação" tvg-logo="https://logos.imperioapps.top/24H.png" group-title="♦️Canais | 24H Filmes",24H Filmes Ação
 http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/2525213.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H Filmes Animação Infantil" tvg-logo="https://logos.imperioapps.top/24H.png" group-title="♦️Canais | 24H Filmes",24H Filmes Animação Infantil
