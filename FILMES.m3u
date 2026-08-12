@@ -5,8 +5,6 @@
 
 ########## ♦️AREA DO CLIENTE♦️ ##########
 
-#EXTINF:-1 tvg-id="" tvg-name="Agenda Esportiva Diária" tvg-logo="https://www.agendaesportiva.com.br/lib/img/portal/logo/6/header-alt.png" group-title="♦️AREA DO CLIENTE♦️",Agenda Esportiva Diária
-http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/2550525.ts
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Lançamentos da Semana" tvg-logo="http://logos.imperioapps.top/LANCAMENTOS_FILMES.png" group-title="♦️AREA DO CLIENTE♦️",Filmes Lançamentos da Semana
 http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/4019393.ts
 #EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="http://logos.imperioapps.top/JOGOSDODIA.png" group-title="♦️AREA DO CLIENTE♦️",JOGOS DO DIA
@@ -17,6 +15,8 @@ http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/271869.ts
 
 ########## LANÇAMENTOS ##########
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg" group-title="LANÇAMENTOS",Hungria: A Escolha de um Sonho - 2026
+https://watch.brstream.cc/m3u8/10/97b3628a420221f9e6f4daab23b75070/master.txt?s=1&id=40734&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2bzIygGnua4tlLo7qTyMSUsME3d.jpg" group-title="LANÇAMENTOS",Corrida dos Bichos - 2026
 https://embedplay.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/DMrkN1MZ2ANvlXcy7L_fpA/is9/fmg9ywcc/rxsli1/tt/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="LANÇAMENTOS",Homem-Aranha: Um Novo Dia - 2026
@@ -25,7 +25,6 @@ https://watch.brstream.cc/m3u8/12/7fdfbdb466640e43e4da51b6295e2bf2/master.txt?s=
 https://watch.brstream.cc/m3u8/12/443463fa02b552acd2481d29586a825b/master.txt?s=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QnpFqRbCw11QOUZ3owo7K1keW0.jpg" group-title="LANÇAMENTOS",Winterset - 2026
 https://watch.brstream.cc/m3u8/12/30627d0d71028dbab2dfc4335ba3ad32/master.txt?s=1
-
 
 ########## FILMES 2025 🎬 ##########
 
@@ -98,6 +97,14 @@ https://watch.brstream.cc/m3u8/26/8553bf408bb98c10bf0fdd4220b50329/master.txt?s=
 https://watch.brstream.cc/m3u8/26/87208431a38b263a8212d32da9222f2d/master.txt?s=1&id=27885&cache=1
 
 ########## FRANQUIAS 🍿 ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/RbZQL5hXmydecu82UHw9ZGyytB.jpg" group-title="FRANQUIAS 🍿 HOMEM-ARANHA",Homem-Aranha (2002)
+https://watch.brstream.cc/m3u8/26/74093e762e3747d3965126f98cbe4e57/master.txt?s=1&id=29486&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5831VrgpYNPEokBwxurLVpQ3twM.jpg" group-title="FRANQUIAS 🍿 HOMEM-ARANHA",Homem-Aranha 3 (2007)
+https://watch.brstream.cc/m3u8/26/8ef3abcafea125f2518236e28761c9da/master.txt?s=1&id=29609&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg" group-title="FRANQUIAS 🍿 HOMEM-ARANHA",O Espetacular Homem-Aranha (2012)
+https://watch.brstream.cc/m3u8/26/95e38e97a6e3ae6c4098033e4d83abf9/master.txt?s=1&id=29584&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cyMz4OfmNqpuQ02QQOQCbGxQjwK.jpg" group-title="FRANQUIAS 🍿 HOMEM-ARANHA",O Espetacular Homem-Aranha 2 - A Ameaça de Electro (2014)
+https://watch.brstream.cc/m3u8/26/5c5bbe5fec5af08592f03045a9c009a0/master.txt?s=1&id=29590&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg" group-title="FRANQUIAS 🍿 HARRY POTTER",Harry Potter e a Pedra Filosofal - 2001
 https://watch.brstream.cc/m3u8/26/3ec7b0f8bc5bf7eb2a73ea78a115d94a/master.txt?s=1&id=28480&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg" group-title="FRANQUIAS 🍿 PIRATAS DO CARIBE",Piratas do Caribe - A Maldição do Pérola Negra - 2003
