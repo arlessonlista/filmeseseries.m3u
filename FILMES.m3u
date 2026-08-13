@@ -12,10 +12,6 @@ https://www.youtube.com/embed/1
 ## 👩🏽‍💻 Editor: Arlesson | Rio de Janeiro | Brasil 🇧🇷
 ## 📧 Contatos e 💰 Pix para doações:
 ########## ♦️AREA DO CLIENTE♦️ ##########
-#EXTINF:-1 tvg-id="" tvg-name="Filmes Lançamentos da Semana" tvg-logo="http://logos.imperioapps.top/LANCAMENTOS_FILMES.png" group-title="♦️AREA DO CLIENTE♦️",teste
-https://voe.sx/hls/k9qlmpwyrx1q/master.m3u8
-
-########## ♦️AREA DO CLIENTE♦️ ##########
 
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Lançamentos da Semana" tvg-logo="http://logos.imperioapps.top/LANCAMENTOS_FILMES.png" group-title="♦️AREA DO CLIENTE♦️",Filmes Lançamentos da Semana
 http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/4019393.ts
@@ -100,6 +96,8 @@ https://watch.brstream.cc/m3u8/26/fdbdddfe8c4df643ec18e5f931bada26/master.txt?s=
 https://watch.brstream.cc/m3u8/26/3484575740e7d74362f6a1ab0ac89a50/master.txt?s=1&id=31664&cache=1
 
 ########## COMÉDIA E ROMANCE 😂 ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fwaioeouE89lrcnckfluzIKMwSu.jpg" group-title="COMÉDIA E ROMANCE 😂",O Diabo Veste Prada (2006)
+https://watch.brstream.cc/m3u8/10/ff25757778a6765222ae5f1b9bdd89ed/master.txt?s=1&id=39056&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwyhGgmskMgoJtFEPquBWnznd2W.jpg" group-title="COMÉDIA E ROMANCE 😂",Riquinho de Papai - 2024
 https://watch.brstream.cc/m3u8/26/8b77bc4975e1eadeceac40c9ff093f38/master.txt?s=1&id=34136&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNAb8OTrlhW5eFwlsPUW3CRXCXh.jpg" group-title="COMÉDIA E ROMANCE 😂",Família, Pero No Mucho - 2025
