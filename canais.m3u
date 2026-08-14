@@ -1,28 +1,22 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="🙏 AJUDE O SERVIDOR" tvg-logo="https://img.icons8.com/color/96/000000/money-bag.png" group-title="💰 AVISOS",🙏 AJUDE O SERVIDOR - DOE PIX
-https://www.youtube.com/embed/1
-
-#EXTINF:-1 tvg-id="" tvg-name="PIX: 2198449-5371" tvg-logo="https://img.icons8.com/color/96/000000/pix.png" group-title="💰 AVISOS",CHAVE PIX: 2198449-5371
-https://www.youtube.com/embed/1
-
-#EXTINF:-1 tvg-id="" tvg-name="QUALQUER VALOR AJUDA" tvg-logo="https://img.icons8.com/color/96/000/heart-with-pulse.png" group-title="💰 AVISOS",QUALQUER VALOR AJUDA - R$2 R$5 R$10
-https://www.youtube.com/embed/1
-
+#EXTM3U 
 ## 📺 TV e Filme
 ## 👩🏽‍💻 Editor: Arlesson | Rio de Janeiro | Brasil 🇧🇷
 ## 📧 Contatos e 💰 Pix para doações:
-########## ♦️AREA DO CLIENTE♦️ ##########
 
+########## ♦️AREA DO CLIENTE♦️ ##########
+#EXTINF:-1 tvg-id="" tvg-name="🙏 AJUDE O SERVIDOR" tvg-logo="https://img.icons8.com/color/96/000000/money-bag.png" group-title="♦️AREA DO CLIENTE♦️",🙏 AJUDE O SERVIDOR - DOE PIX
+https://www.youtube.com/embed/1
+#EXTINF:-1 tvg-id="" tvg-name="PIX: 2198449-5371" tvg-logo="https://img.icons8.com/color/96/000000/pix.png" group-title="♦️AREA DO CLIENTE♦️",CHAVE PIX: 2198449-5371
+https://www.youtube.com/embed/1
+#EXTINF:-1 tvg-id="" tvg-name="QUALQUER VALOR AJUDA" tvg-logo="https://img.icons8.com/color/96/000/heart-with-pulse.png" group-title="♦️AREA DO CLIENTE♦️",QUALQUER VALOR AJUDA - R$2 R$5 R$10
+https://www.youtube.com/embed/1
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Lançamentos da Semana" tvg-logo="http://logos.imperioapps.top/LANCAMENTOS_FILMES.png" group-title="♦️AREA DO CLIENTE♦️",Filmes Lançamentos da Semana
 http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/4019393.ts
 #EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="http://logos.imperioapps.top/JOGOSDODIA.png" group-title="♦️AREA DO CLIENTE♦️",JOGOS DO DIA
 http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/223475.ts
 #EXTINF:-1 tvg-id="" tvg-name="LUTAS DO DIA UFC" tvg-logo="http://logos.imperioapps.top/LUTASDODIAUFC.png" group-title="♦️AREA DO CLIENTE♦️",LUTAS DO DIA UFC
 http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/271869.ts
-#EXTINF:-1 tvg-id="" tvg-name="Linsta do Ton" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2lzCjuKwGdaJNm1OSRGkvoUXuTrChfHEVfGkuA-XZcNOnTFzuMM4WHDnGzfotS0fPVeaYViexb96vszIV9HsC6Ugn-TDFWv3VPF2YprOQh2xdjS48xo5rXihwCUE6Y4W7QBU3ImBscBIKoD8_bx112pQRf0hiDnYctNoIiRmOgQ7Gxe1C-L_v4V5z7Cf-/w226-h400/listadodon.jpg" group-title="♦️AREA DO CLIENTE♦️",LISTA DO DON
-
-########## LANÇAMENTOS 🔥 ##########
-
+#EXTINF:-1 tvg-id="" tvg-name="Linsta do Ton" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2lzCjuKwGdaJNm1OSRGkvoUXuTrChfHEVfGkuA-XZcNOnTFzuMM4WHDnGzfotS0fPVeaYViexb96vszIV9HsC6Ugn-TDFWv3VPF2YprOQh2xdjS48xo5rXihwCUE6Y4W7QBU3ImBscBIKoD8_bx112pQRf0hiDnYctNoIiRmOgQ7Gxe1C-L_v4V5z7Cf-/w226-h400/listadodon.jpg" group-title="♦️AREA DO CLIENTE♦️",Lista do Ton
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg" group-title="LANÇAMENTOS 🔥",Hungria: A Escolha de um Sonho - 2026
 https://watch.brstream.cc/m3u8/10/97b3628a420221f9e6f4daab23b75070/master.txt?s=1&id=40734&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2bzIygGnua4tlLo7qTyMSUsME3d.jpg" group-title="LANÇAMENTOS 🔥",Corrida dos Bichos - 2026
