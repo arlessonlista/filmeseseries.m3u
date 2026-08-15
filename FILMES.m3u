@@ -94,22 +94,37 @@ https://watch.brstream.cc/m3u8/10/32b37189d500243b8277718b2ebb9192/master.txt?s=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3NQlRZoNWui1Z6VkUPLsdwbtnWg.jpg" group-title="FILMES 🎬️",IA Alienígena: Abduzida (2024)
 https://watch.brstream.cc/m3u8/12/21284c80df6ca5a2a55705829894a866/master.txt?s=1&id=38310&cache=1
 
-########## COLEÇÃO 🍿 ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/RbZQL5hXmydecu82UHw9ZGyytB.jpg" group-title="COLEÇÃO 🍿",Homem-Aranha (2002)
+########## COLEÇÃO 🍿 HOMEM-ARANHA ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/RbZQL5hXmydecu82UHw9ZGyytB.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",Homem-Aranha (2002)
 https://watch.brstream.cc/m3u8/26/74093e762e3747d3965126f98cbe4e57/master.txt?s=1&id=29486&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5831VrgpYNPEokBwxurLVpQ3twM.jpg" group-title="COLEÇÃO 🍿",Homem-Aranha 3 (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5831VrgpYNPEokBwxurLVpQ3twM.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",Homem-Aranha 3 (2007)
 https://watch.brstream.cc/m3u8/26/8ef3abcafea125f2518236e28761c9da/master.txt?s=1&id=29609&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg" group-title="COLEÇÃO 🍿",O Espetacular Homem-Aranha (2012)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",O Espetacular Homem-Aranha (2012)
 https://watch.brstream.cc/m3u8/26/95e38e97a6e3ae6c4098033e4d83abf9/master.txt?s=1&id=29584&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cyMz4OfmNqpuQ02QQOQCbGxQjwK.jpg" group-title="COLEÇÃO 🍿",O Espetacular Homem-Aranha 2 - A Ameaça de Electro (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cyMz4OfmNqpuQ02QQOQCbGxQjwK.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",O Espetacular Homem-Aranha 2 - A Ameaça de Electro (2014)
 https://watch.brstream.cc/m3u8/26/5c5bbe5fec5af08592f03045a9c009a0/master.txt?s=1&id=29590&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg" group-title="COLEÇÃO 🍿",Harry Potter e a Pedra Filosofal - 2001
+
+
+########## COLEÇÃO 🍿 HARRY POTTER ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg" group-title="COLEÇÃO 🍿 HARRY POTTER",Harry Potter e a Pedra Filosofal - 2001
 https://watch.brstream.cc/m3u8/26/3ec7b0f8bc5bf7eb2a73ea78a115d94a/master.txt?s=1&id=28480&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg" group-title="COLEÇÃO 🍿",Piratas do Caribe - A Maldição do Pérola Negra - 2003
+
+
+########## COLEÇÃO 🍿 PIRATAS DO CARIBE ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg" group-title="COLEÇÃO 🍿 PIRATAS DO CARIBE",Piratas do Caribe - A Maldição do Pérola Negra - 2003
 https://watch.brstream.cc/m3u8/26/75d52237743d661f8f60a988e9ba5989/master.txt?s=1&id=29616&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg" group-title="COLEÇÃO 🍿",Resident Evil: O Hóspede Maldito - 2002
+
+
+########## COLEÇÃO 🍿 RESIDENT EVIL ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg" group-title="COLEÇÃO 🍿 RESIDENT EVIL",Resident Evil: O Hóspede Maldito - 2002
 https://watch.brstream.cc/m3u8/26/cfc948fc40dd345b6e12298c5c40ba13/master.txt?s=1&id=29528&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CnPatbgtOYil7kVyL4J648Q5rk.jpg" group-title="COLEÇÃO 🍿",X-Men: O Filme - 2000
+
+
+########## COLEÇÃO 🍿 X-MEN ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CnPatbgtOYil7kVyL4J648Q5rk.jpg" group-title="COLEÇÃO 🍿 X-MEN",X-Men: O Filme - 2000
 https://watch.brstream.cc/m3u8/26/e73902cc3bc6c3bb0534870f6b8272e4/master.txt?s=1&id=28511&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg" group-title="COLEÇÃO 🍿",Transformers - 2007
+
+
+########## COLEÇÃO 🍿 TRANSFORMERS ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg" group-title="COLEÇÃO 🍿 TRANSFORMERS",Transformers - 2007
 https://watch.brstream.cc/m3u8/26/c40d81efdade5f24d4d1181392064079/master.txt?s=1&id=29623&cache=1
