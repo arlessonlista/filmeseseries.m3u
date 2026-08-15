@@ -10,7 +10,7 @@ https://www.youtube.com/embed/1
 https://www.youtube.com/embed/1
 #EXTINF:-1 tvg-id="" tvg-name="QUALQUER VALOR AJUDA" tvg-logo="https://img.icons8.com/color/96/000/heart-with-pulse.png" group-title="♦️AREA DO CLIENTE♦️",QUALQUER VALOR AJUDA - R$2 R$5 R$10
 https://www.youtube.com/embed/1
-#EXTINF:-1 tvg-id="" tvg-name="Filmes Lançamentos da Semana" tvg-logo="http://logos.imperioapps.top/LANCAMENTOS_FILMES.png" group-title="♦️AREA DO CLIENTE♦️",Filmes Lançamentos da Semana
+#EXTINF:-1 tvg-id="" tvg-name="FILMES 🎬️ da Semana" tvg-logo="http://logos.imperioapps.top/LANCAMENTOS_FILMES.png" group-title="♦️AREA DO CLIENTE♦️",FILMES 🎬️ da Semana
 http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/4019393.ts
 #EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="http://logos.imperioapps.top/JOGOSDODIA.png" group-title="♦️AREA DO CLIENTE♦️",JOGOS DO DIA
 http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/223475.ts
@@ -18,142 +18,98 @@ http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/223475.ts
 http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/271869.ts
 #EXTINF:-1 tvg-id="" tvg-name="Linsta do Ton" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2lzCjuKwGdaJNm1OSRGkvoUXuTrChfHEVfGkuA-XZcNOnTFzuMM4WHDnGzfotS0fPVeaYViexb96vszIV9HsC6Ugn-TDFWv3VPF2YprOQh2xdjS48xo5rXihwCUE6Y4W7QBU3ImBscBIKoD8_bx112pQRf0hiDnYctNoIiRmOgQ7Gxe1C-L_v4V5z7Cf-/w226-h400/listadodon.jpg" group-title="♦️AREA DO CLIENTE♦️",Lista do Ton
 
-########## FILMES LANÇAMENTOS ##########
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg" group-title="FILMES LANÇAMENTOS ",Hungria: A Escolha de um Sonho - 2026
+########### FILMES 🎬️ ########### 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg" group-title="FILMES 🎬️ ",Hungria: A Escolha de um Sonho - 2026
 https://watch.brstream.cc/m3u8/10/97b3628a420221f9e6f4daab23b75070/master.txt?s=1&id=40734&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2bzIygGnua4tlLo7qTyMSUsME3d.jpg" group-title="FILMES LANÇAMENTOS ",Corrida dos Bichos - 2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2bzIygGnua4tlLo7qTyMSUsME3d.jpg" group-title="FILMES 🎬️ ",Corrida dos Bichos - 2026
 https://embedplay.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/DMrkN1MZ2ANvlXcy7L_fpA/is9/fmg9ywcc/rxsli1/tt/master.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="FILMES LANÇAMENTOS ",Homem-Aranha: Um Novo Dia - 2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="FILMES 🎬️ ",Homem-Aranha: Um Novo Dia - 2026
 https://watch.brstream.cc/m3u8/12/7fdfbdb466640e43e4da51b6295e2bf2/master.txt?s=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fteLdvfRnltfLjAEnsl5E3vImnW.jpg" group-title="FILMES LANÇAMENTOS ",A Morte do Demônio: Em Chamas - 2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fteLdvfRnltfLjAEnsl5E3vImnW.jpg" group-title="FILMES 🎬️ ",A Morte do Demônio: Em Chamas - 2026
 https://watch.brstream.cc/m3u8/12/443463fa02b552acd2481d29586a825b/master.txt?s=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QnpFqRbCw11QOUZ3owo7K1keW0.jpg" group-title="FILMES LANÇAMENTOS ",Winterset - 2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QnpFqRbCw11QOUZ3owo7K1keW0.jpg" group-title="FILMES 🎬️ ",Winterset - 2026
 https://watch.brstream.cc/m3u8/12/30627d0d71028dbab2dfc4335ba3ad32/master.txt?s=1
-
-
-########## FILMES DE CINEMA##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjJ3a3D2LwgRdaPgrqLxjA45laZ.jpg" group-title="FILMES DE CINEMA ",Se Eu Tivesse Pernas, Eu Te Chutaria - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjJ3a3D2LwgRdaPgrqLxjA45laZ.jpg" group-title="FILMES 🎬️ ",Se Eu Tivesse Pernas, Eu Te Chutaria - 2025
 https://watch.brstream.cc/m3u8/12/251ac3d1e0619a1166fa15753157ea11/master.txt?s=1&id=32538&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6xnTf1TZbeCGq4babA07aesE5T.jpg" group-title="FILMES DE CINEMA ",Depois da Caçada - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6xnTf1TZbeCGq4babA07aesE5T.jpg" group-title="FILMES 🎬️ ",Depois da Caçada - 2025
 https://watch.brstream.cc/m3u8/12/c1f0986fd7eefc02708427c7b8fada90/master.txt?s=1&id=32537&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51drPz72PaeUGMQlu9QwwO2RvFP.jpg" group-title="FILMES DE CINEMA ",A Casa Mágica da Gabby: O Filme - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51drPz72PaeUGMQlu9QwwO2RvFP.jpg" group-title="FILMES 🎬️ ",A Casa Mágica da Gabby: O Filme - 2025
 https://watch.brstream.cc/m3u8/12/6a27685d602a50fe587c4ab6cfb07d90/master.txt?s=1&id=32816&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjchodry2ucSUw5jbAc0r3SAxrG.jpg" group-title="FILMES DE CINEMA ",Perrengue Fashion - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjchodry2ucSUw5jbAc0r3SAxrG.jpg" group-title="FILMES 🎬️ ",Perrengue Fashion - 2025
 https://watch.brstream.cc/m3u8/12/414c9626ffcaf80a72e69de63d2f7487/master.txt?s=1&id=32511&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/270Y5jWtJMU8cK2Q8MSwJqsnUgS.jpg" group-title="FILMES DE CINEMA ",Coração de Lutador: The Smashing Machine - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/270Y5jWtJMU8cK2Q8MSwJqsnUgS.jpg" group-title="FILMES 🎬️ ",Coração de Lutador: The Smashing Machine - 2025
 https://watch.brstream.cc/m3u8/12/973e871484054975ff69b4d23627e376/master.txt?s=1&id=33916&cache=1
-
-
-########## FILMES DE AÇÃO##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iajTcyco5MEscLp0ue59lVY2WtH.jpg" group-title="FILMES DE AÇÃO",Carga Explosiva - 2002
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iajTcyco5MEscLp0ue59lVY2WtH.jpg" group-title="FILMES 🎬️",Carga Explosiva - 2002
 https://watch.brstream.cc/m3u8/26/f894de0e96476139a9bd8386cfa2527d/master.txt?s=1&id=27763&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Vo1KYTe0LWakRxTwp3scw8Ti6u.jpg" group-title="FILMES DE AÇÃO",Carga Explosiva 2 - 2005
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Vo1KYTe0LWakRxTwp3scw8Ti6u.jpg" group-title="FILMES 🎬️",Carga Explosiva 2 - 2005
 https://watch.brstream.cc/m3u8/26/d1cc779e26f87a95b93365c0dbcf48b1/master.txt?s=1&id=27761&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6ayrfuhmKl6VUOByP7RJL047X1.jpg" group-title="FILMES DE AÇÃO",Carga Explosiva 3 - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6ayrfuhmKl6VUOByP7RJL047X1.jpg" group-title="FILMES 🎬️",Carga Explosiva 3 - 2008
 https://watch.brstream.cc/m3u8/26/d6d83fd1acd1918a677906afc9bdc1d7/master.txt?s=1&id=27762&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iti0ub1R6JBCfwJarLktNL47HC.jpg" group-title="FILMES DE AÇÃO",Carga Explosiva - O Legado - 2015
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iti0ub1R6JBCfwJarLktNL47HC.jpg" group-title="FILMES 🎬️",Carga Explosiva - O Legado - 2015
 https://watch.brstream.cc/m3u8/26/ee0e3a7eb15c6731cb32c7f76c3f4954/master.txt?s=1&id=27764&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKaaYM4CtuJZFdOA0SZWbaMNHbn.jpg" group-title="FILMES DE AÇÃO",Velozes & Furiosos - 2001
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKaaYM4CtuJZFdOA0SZWbaMNHbn.jpg" group-title="FILMES 🎬️",Velozes & Furiosos - 2001
 https://watch.brstream.cc/m3u8/26/813c26fc0c3bf64573a10eafb3f8e5ee/master.txt?s=1&id=30119&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC57SSZAkkLBCuWVsEfbqYkRda5.jpg" group-title="FILMES DE AÇÃO",Karate Kid - 2010
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC57SSZAkkLBCuWVsEfbqYkRda5.jpg" group-title="FILMES 🎬️",Karate Kid - 2010
 https://watch.brstream.cc/m3u8/26/2b962f0b627cf45414b498eb963dde7d/master.txt?s=1&id=27290&cache=1
-
-
-########## FILMES DE GUERRA ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCsGDUdCBUXMNGANdyXSDFZPCMO.jpg" group-title="FILMES DE GUERRA",Prisioneiro de Guerra - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCsGDUdCBUXMNGANdyXSDFZPCMO.jpg" group-title="FILMES 🎬️",Prisioneiro de Guerra - 2025
 https://watch.brstream.cc/m3u8/26/96c38b959c1e40beeb302b9ca2edbfc2/master.txt?s=1&id=34135&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUSX6LLvEZWRZIdrz9guOG5hFvd.jpg" group-title="FILMES DE GUERRA",A Agente Polonesa - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUSX6LLvEZWRZIdrz9guOG5hFvd.jpg" group-title="FILMES 🎬️",A Agente Polonesa - 2025
 https://watch.brstream.cc/m3u8/26/41cb1109a21920a38bd0cfff6125fcc9/master.txt?s=1&id=34137&cache=1
-
-
-########## FILMES DE TERROR ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iluZwBX2vg3CmdLP25UNccpnFF.jpg" group-title="FILMES DE TERROR ",As Ruínas - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iluZwBX2vg3CmdLP25UNccpnFF.jpg" group-title="FILMES 🎬️ ",As Ruínas - 2008
 https://watch.brstream.cc/m3u8/26/5b347a27844fa303dd8c02b7da1c9206/master.txt?s=1&id=31324&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCXbycpYoRjbFa0ZHzEIj9Gazas.jpg" group-title="FILMES DE TERROR ",A Garota da Capa Vermelha - 2011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCXbycpYoRjbFa0ZHzEIj9Gazas.jpg" group-title="FILMES 🎬️ ",A Garota da Capa Vermelha - 2011
 https://watch.brstream.cc/m3u8/26/365aa6ebdc3dbf28e7b9ea1c1b4d2908/master.txt?s=1&id=31319&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="FILMES DE TERROR ",Maligno - 2021
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="FILMES 🎬️ ",Maligno - 2021
 https://watch.brstream.cc/m3u8/27/8d6b31ed2ba3ecd5a1c7a80773f01ec2/master.txt?s=1&id=31099&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tdcvT3ZyPBluzmQTevgn503jpg.jpg" group-title="FILMES DE TERROR ",A Órfã - 2009
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tdcvT3ZyPBluzmQTevgn503jpg.jpg" group-title="FILMES 🎬️ ",A Órfã - 2009
 https://watch.brstream.cc/m3u8/26/ec04a75ca6302d347df2f803efe8c5bd/master.txt?s=1&id=31618&cache=1
-
-
-########## FILMES INFANTIL ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg" group-title="FILMES INFANTIL",Balto - 1995
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg" group-title="FILMES 🎬️",Balto - 1995
 https://watch.brstream.cc/m3u8/26/b8a8ace231fae55cbad834ad5b66e3d6/master.txt?s=1&id=31325&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTtNS0wryduqtGeVoaNJqrmzqNG.jpg" group-title="FILMES INFANTIL",Procurando Dory - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTtNS0wryduqtGeVoaNJqrmzqNG.jpg" group-title="FILMES 🎬️",Procurando Dory - 2016
 https://watch.brstream.cc/m3u8/26/fdbdddfe8c4df643ec18e5f931bada26/master.txt?s=1&id=31662&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVbNDmPrbnfgINfEoAMx41N7IfH.jpg" group-title="FILMES INFANTIL",Trolls - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVbNDmPrbnfgINfEoAMx41N7IfH.jpg" group-title="FILMES 🎬️",Trolls - 2016
 https://watch.brstream.cc/m3u8/26/3484575740e7d74362f6a1ab0ac89a50/master.txt?s=1&id=31664&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Dx4uZ3HVkaDLk3WNsOxOaMIYIr.jpg" group-title="FILMES INFANTIL",Batman Azteca: Choque de Impérios - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Dx4uZ3HVkaDLk3WNsOxOaMIYIr.jpg" group-title="FILMES 🎬️",Batman Azteca: Choque de Impérios - 2025
 https://watch.brstream.cc/m3u8/27/01f11b1dc7251b4dad589e664e28aaf6/master.txt?s=1&id=34222&cache=1
-
-
-########## FILMES DE COMÉDIA ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0gXEtW82gLwWGkXwORf4f8eU4p.jpg" group-title="FILMES DE COMÉDIA",Um Noivo e Duas Noivas - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0gXEtW82gLwWGkXwORf4f8eU4p.jpg" group-title="FILMES 🎬️",Um Noivo e Duas Noivas - 2025
 https://watch.brstream.cc/m3u8/26/90f2041eeb835d118c1b6d02904b6e3a/master.txt?s=1&id=34223&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o18Uhb60ePW7QcGOFNMcHeyIUkJ.jpg" group-title="FILMES DE COMÉDIA",Uma Casa em Chamas (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o18Uhb60ePW7QcGOFNMcHeyIUkJ.jpg" group-title="FILMES 🎬️",Uma Casa em Chamas (2024)
 https://watch.brstream.cc/m3u8/10/ff25757778a6765222ae5f1b9bdd89ed/master.txt?s=1&id=39056&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fwaioeouE89lrcnckfluzIKMwSu.jpg" group-title="FILMES DE COMÉDIA",O Diabo Veste Prada (2006)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fwaioeouE89lrcnckfluzIKMwSu.jpg" group-title="FILMES 🎬️",O Diabo Veste Prada (2006)
 https://watch.brstream.cc/m3u8/10/ff25757778a6765222ae5f1b9bdd89ed/master.txt?s=1&id=39056&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwyhGgmskMgoJtFEPquBWnznd2W.jpg" group-title="FILMES DE COMÉDIA",Riquinho de Papai - 2024
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwyhGgmskMgoJtFEPquBWnznd2W.jpg" group-title="FILMES 🎬️",Riquinho de Papai - 2024
 https://watch.brstream.cc/m3u8/26/8b77bc4975e1eadeceac40c9ff093f38/master.txt?s=1&id=34136&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNAb8OTrlhW5eFwlsPUW3CRXCXh.jpg" group-title="FILMES DE COMÉDIA",Família, Pero No Mucho - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNAb8OTrlhW5eFwlsPUW3CRXCXh.jpg" group-title="FILMES 🎬️",Família, Pero No Mucho - 2025
 https://watch.brstream.cc/m3u8/26/12b4a55cb5e13762b0b5e208041dd613/master.txt?s=1&id=27798&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRQ4eHCsbLOADjNKM0m72cmL5qO.jpg" group-title="FILMES DE COMÉDIA",Ainda Sou uma Superstar - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRQ4eHCsbLOADjNKM0m72cmL5qO.jpg" group-title="FILMES 🎬️",Ainda Sou uma Superstar - 2025
 https://watch.brstream.cc/m3u8/26/8553bf408bb98c10bf0fdd4220b50329/master.txt?s=1&id=27879&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZExVc4fuAFSdh2VsHI1pN4Izqp.jpg" group-title="FILMES DE COMÉDIA",O Quiosque - 2024
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZExVc4fuAFSdh2VsHI1pN4Izqp.jpg" group-title="FILMES 🎬️",O Quiosque - 2024
 https://watch.brstream.cc/m3u8/26/87208431a38b263a8212d32da9222f2d/master.txt?s=1&id=27885&cache=1
-
-
-########## FILMES DE ROMANCE ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmZ58zzKrGZV1kBQAjIkhwTf3xe.jpg" group-title="FILMES DE ROMANCE",Manga - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmZ58zzKrGZV1kBQAjIkhwTf3xe.jpg" group-title="FILMES 🎬️",Manga - 2025
 https://watch.brstream.cc/m3u8/26/73907fed82d21d4b3700c31aefb6b3c0/master.txt?s=1&id=34242&cache=1
-
-
-########## DOCUMENTÁRIOS ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJ3yt6ZxXJUoHA9Vf1j0i6U7s3y.jpg" group-title="DOCUMENTÁRIOS",Soberano - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJ3yt6ZxXJUoHA9Vf1j0i6U7s3y.jpg" group-title="FILMES 🎬️",Soberano - 2025
 https://watch.brstream.cc/m3u8/26/bfde2fdca264b06c6628212cc6589ad4/master.txt?s=1&id=34204&cache=1
-
-
-########## FILMES DE FICÇÃO ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg" group-title="FILMES DE FICÇÃO",Devoradores de Estrelas (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg" group-title="FILMES 🎬️",Devoradores de Estrelas (2026)
 https://watch.brstream.cc/m3u8/10/32b37189d500243b8277718b2ebb9192/master.txt?s=1&id=39065&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3NQlRZoNWui1Z6VkUPLsdwbtnWg.jpg" group-title="FILMES DE FICÇÃO",IA Alienígena: Abduzida (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3NQlRZoNWui1Z6VkUPLsdwbtnWg.jpg" group-title="FILMES 🎬️",IA Alienígena: Abduzida (2024)
 https://watch.brstream.cc/m3u8/12/21284c80df6ca5a2a55705829894a866/master.txt?s=1&id=38310&cache=1
 
-
-########## COLEÇÃO 🍿 HOMEM-ARANHA ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/RbZQL5hXmydecu82UHw9ZGyytB.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",Homem-Aranha (2002)
+########## COLEÇÃO 🍿 ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/RbZQL5hXmydecu82UHw9ZGyytB.jpg" group-title="COLEÇÃO 🍿",Homem-Aranha (2002)
 https://watch.brstream.cc/m3u8/26/74093e762e3747d3965126f98cbe4e57/master.txt?s=1&id=29486&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5831VrgpYNPEokBwxurLVpQ3twM.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",Homem-Aranha 3 (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5831VrgpYNPEokBwxurLVpQ3twM.jpg" group-title="COLEÇÃO 🍿",Homem-Aranha 3 (2007)
 https://watch.brstream.cc/m3u8/26/8ef3abcafea125f2518236e28761c9da/master.txt?s=1&id=29609&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",O Espetacular Homem-Aranha (2012)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg" group-title="COLEÇÃO 🍿",O Espetacular Homem-Aranha (2012)
 https://watch.brstream.cc/m3u8/26/95e38e97a6e3ae6c4098033e4d83abf9/master.txt?s=1&id=29584&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cyMz4OfmNqpuQ02QQOQCbGxQjwK.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",O Espetacular Homem-Aranha 2 - A Ameaça de Electro (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cyMz4OfmNqpuQ02QQOQCbGxQjwK.jpg" group-title="COLEÇÃO 🍿",O Espetacular Homem-Aranha 2 - A Ameaça de Electro (2014)
 https://watch.brstream.cc/m3u8/26/5c5bbe5fec5af08592f03045a9c009a0/master.txt?s=1&id=29590&cache=1
-
-
-########## COLEÇÃO 🍿 HARRY POTTER ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg" group-title="COLEÇÃO 🍿 HARRY POTTER",Harry Potter e a Pedra Filosofal - 2001
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg" group-title="COLEÇÃO 🍿",Harry Potter e a Pedra Filosofal - 2001
 https://watch.brstream.cc/m3u8/26/3ec7b0f8bc5bf7eb2a73ea78a115d94a/master.txt?s=1&id=28480&cache=1
-
-
-########## COLEÇÃO 🍿 PIRATAS DO CARIBE ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg" group-title="COLEÇÃO 🍿 PIRATAS DO CARIBE",Piratas do Caribe - A Maldição do Pérola Negra - 2003
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg" group-title="COLEÇÃO 🍿",Piratas do Caribe - A Maldição do Pérola Negra - 2003
 https://watch.brstream.cc/m3u8/26/75d52237743d661f8f60a988e9ba5989/master.txt?s=1&id=29616&cache=1
-
-
-########## COLEÇÃO 🍿 RESIDENT EVIL ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg" group-title="COLEÇÃO 🍿 RESIDENT EVIL",Resident Evil: O Hóspede Maldito - 2002
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg" group-title="COLEÇÃO 🍿",Resident Evil: O Hóspede Maldito - 2002
 https://watch.brstream.cc/m3u8/26/cfc948fc40dd345b6e12298c5c40ba13/master.txt?s=1&id=29528&cache=1
-
-
-########## COLEÇÃO 🍿 X-MEN ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CnPatbgtOYil7kVyL4J648Q5rk.jpg" group-title="COLEÇÃO 🍿 X-MEN",X-Men: O Filme - 2000
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CnPatbgtOYil7kVyL4J648Q5rk.jpg" group-title="COLEÇÃO 🍿",X-Men: O Filme - 2000
 https://watch.brstream.cc/m3u8/26/e73902cc3bc6c3bb0534870f6b8272e4/master.txt?s=1&id=28511&cache=1
-
-
-########## COLEÇÃO 🍿 TRANSFORMERS ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg" group-title="COLEÇÃO 🍿 TRANSFORMERS",Transformers - 2007
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg" group-title="COLEÇÃO 🍿",Transformers - 2007
 https://watch.brstream.cc/m3u8/26/c40d81efdade5f24d4d1181392064079/master.txt?s=1&id=29623&cache=1
