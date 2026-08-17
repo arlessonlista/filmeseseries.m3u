@@ -134,6 +134,8 @@ https://watch.brstream.cc/m3u8/12/5005e1fac0746679ea5563e9b3c1fb26/master.txt?s=
 
 ########### FILMES DE 2026 ###########
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmff1wjKrgJi92PPr346lAifzlg.jpg" group-title="FILMES DE 2026",Dia D - 2026
+https://watch.brstream.cc/m3u8/12/7d81853c3b9c80746412829fcf8d2049/master.txt?s=1&id=36723&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oKAuaGHFl6opv7PCY3By9HZqSLL.jpg" group-title="FILMES DE 2026",Caminhos do Crime - Ainda no cinema - (2026)
 https://watch.brstream.cc/m3u8/12/7d81853c3b9c80746412829fcf8d2049/master.txt?s=1&id=36723&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/y5Tv8rI9Ay87anaSPcTElXFNZnf.jpg" group-title="FILMES DE 2026",“O Morro dos Ventos Uivantes” - Ainda no cinema - (2026)
