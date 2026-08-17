@@ -32,22 +32,257 @@ https://watch.brstream.cc/m3u8/12/443463fa02b552acd2481d29586a825b/master.txt?s=
 https://watch.brstream.cc/m3u8/12/30627d0d71028dbab2dfc4335ba3ad32/master.txt?s=1
 
 
-########## FILMES DE CINEMA ##########
+########## FILMES 24HS ##########
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjJ3a3D2LwgRdaPgrqLxjA45laZ.jpg" group-title="FILMES DE CINEMA ",Se Eu Tivesse Pernas, Eu Te Chutaria - 2025
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_romance_16x9_2.jpg" group-title="FILMES 24HS",Filmes de Romànce - 24hs
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_comedy_brazil_1400x2000.jpg" group-title="FILMES 24HS",Filmes de Comédia - 24hs
+https://stream.ads.ottera.tv/cl/260817da1jlndgqf9s73dc1m9g/1280x720_3071200_0_f.m3u8?i=728_2553
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_crime_brazil_1400x2000.jpg" group-title="FILMES 24HS",Filmes de Crime - 24hs
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_cinespanto_16x9_1.jpg" group-title="FILMES 24HS",Filmes de Terror - 24hs
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_family_brazil_1400x2000.jpg" group-title="FILMES 24HS",Filmes de Família - 24hs
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_br_action_bg.jpg" group-title="FILMES 24HS",Filmes de Ação - 24hs
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+########### FILMES DO CINEMA ###########
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oKAuaGHFl6opv7PCY3By9HZqSLL.jpg" group-title="FILMES DO CINEMA",Caminhos do Crime (2026)
+https://watch.brstream.cc/m3u8/12/7d81853c3b9c80746412829fcf8d2049/master.txt?s=1&id=36723&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4GLvhvocFpOn1z1DRqFeiBC7nBP.jpg" group-title="FILMES DO CINEMA",Extermínio: O Templo dos Ossos (2026)
+https://watch.brstream.cc/m3u8/12/f71a344159282c7b94cb0e465f0fa610/master.txt?s=1&id=35978&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7OR4UwZW6eTGIoNMujGAAtCnLCx.jpg" group-title="FILMES DO CINEMA",Justiça Artificial (2026)
+https://watch.brstream.cc/m3u8/12/c5d566ec3c2d5e81193cec5703b0c71c/master.txt?s=1&id=36195&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg" group-title="FILMES DO CINEMA",Alerta Apocalipse (2026) 
+https://watch.brstream.cc/m3u8/12/e60af3c102de8282382170efa4972471/master.txt?s=1&id=36368&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nw5v0fVDuuVg2KRKEieLgsb3vbt.jpg" group-title="FILMES DO CINEMA",Destruição Final 2 (2026) 
+https://watch.brstream.cc/m3u8/12/da0276616a3e13b74f457ac86c15c3e8/master.txt?s=1&id=36533&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1tX11KQzujSDXdszFNRvQbbNi72.jpg" group-title="FILMES DO CINEMA",O Som da Morte (2026)  
+https://watch.brstream.cc/m3u8/12/673ba172c0a9cb31b6b9223c25f4dde4/master.txt?s=1&id=36544&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m64VvG9eFbWqFCjXs8gZ33iq0L5.jpg" group-title="FILMES DO CINEMA",Socorro! (2026)  
+https://watch.brstream.cc/m3u8/12/f063d53aa3a5c845e1b246dcdd0772fa/master.txt?s=1&id=36702&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="FILMES DO CINEMA",Lago dos Ossos (2025)
+https://watch.brstream.cc/m3u8/12/8b16ef0e8dc41ac2f4d58e0a45621922/master.txt?s=1&id=32508&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMlqPrEtericgbnNO4PW2D7w4Cj.jpg" group-title="FILMES DO CINEMA",Altered (2025)
+https://watch.brstream.cc/m3u8/12/0a38436397f65f4dba1b4393d81e9159/master.txt?s=1&id=33292&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjJ3a3D2LwgRdaPgrqLxjA45laZ.jpg" group-title="FILMES DO CINEMA",Se Eu Tivesse Pernas, Eu Te Chutaria (2025)
 https://watch.brstream.cc/m3u8/12/251ac3d1e0619a1166fa15753157ea11/master.txt?s=1&id=32538&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6xnTf1TZbeCGq4babA07aesE5T.jpg" group-title="FILMES DE CINEMA ",Depois da Caçada - 2025
-https://watch.brstream.cc/m3u8/12/c1f0986fd7eefc02708427c7b8fada90/master.txt?s=1&id=32537&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51drPz72PaeUGMQlu9QwwO2RvFP.jpg" group-title="FILMES DE CINEMA ",A Casa Mágica da Gabby: O Filme - 2025
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51drPz72PaeUGMQlu9QwwO2RvFP.jpg" group-title="FILMES DO CINEMA",A Casa Mágica da Gabby: O Filme (2025)
 https://watch.brstream.cc/m3u8/12/6a27685d602a50fe587c4ab6cfb07d90/master.txt?s=1&id=32816&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjchodry2ucSUw5jbAc0r3SAxrG.jpg" group-title="FILMES DE CINEMA ",Perrengue Fashion - 2025
-https://watch.brstream.cc/m3u8/12/414c9626ffcaf80a72e69de63d2f7487/master.txt?s=1&id=32511&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/270Y5jWtJMU8cK2Q8MSwJqsnUgS.jpg" group-title="FILMES DE CINEMA ",Coração de Lutador: The Smashing Machine - 2025
-https://watch.brstream.cc/m3u8/12/973e871484054975ff69b4d23627e376/master.txt?s=1&id=33916&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCMOHK9k8MIm95xCCKFwdIZkNc6.jpg" group-title="FILMES DO CINEMA",Waltzing with Brando (2025)
+https://watch.brstream.cc/m3u8/12/d34250a7e859a05bb6a18edcc70564d8/master.txt?s=1&id=32083&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgLUFJdveYcL9OvnFAnvtCczcqj.jpg" group-title="FILMES DO CINEMA",O Vingador Tóxico (2025)
+https://watch.brstream.cc/m3u8/12/75184ae2b04ef83f12bc2173bb8962af/master.txt?s=1&id=32077&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg" group-title="FILMES DO CINEMA",#SalveRosa (2025)
+https://watch.brstream.cc/m3u8/12/ee1d01930813d9f10858db96fd9d58b1/master.txt?s=1&id=33589&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg" group-title="FILMES DO CINEMA",Família de Aluguel (2025)
+https://watch.brstream.cc/m3u8/12/b9fdece3130f9e19955c2c3f087168f9/master.txt?s=1&id=35894&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/45HfLpaQQSw05PXIeG5Xc7VVxTb.jpg" group-title="FILMES DO CINEMA",Song Sung Blue: Um Sonho a Dois Online Grátis (2025)
+https://watch.brstream.cc/m3u8/12/2151a9acfad2cad72725a1859f8ca776/master.txt?s=1&id=35572&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fthvYnjERbXt3ILjLjHpPNd5IVJ.jpg" group-title="FILMES DO CINEMA",Zootopia 2 (2025)
+https://watch.brstream.cc/m3u8/12/c20f3fd71bd6e1b66d31a9dab6504ac8/master.txt?s=1&id=35586&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xL18kd52vU8glcRTta6SpWhdZvF.jpg" group-title="FILMES DO CINEMA",Traição Entre Amigas (2025)
+https://watch.brstream.cc/m3u8/12/67967c07b2e94e8b169717ade98b5b2b/master.txt?s=1&id=35522&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m0Wx79hH2mfIp8G4eKFtb4awolB.jpg" group-title="FILMES DO CINEMA",Avatar: Fogo e Cinzas (2025)
+https://watch.brstream.cc/m3u8/12/f69b857233949c6a79158d4bb7ab5061/master.txt?s=1&id=35473&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uD1SSjSxu0LjnbzDQiuunPiqBa9.jpg" group-title="FILMES DO CINEMA",Sisu: Road To Revenge (2025)
+https://watch.brstream.cc/m3u8/12/5aae68270b448da2adfa823502b512a8/master.txt?s=1&id=35051&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fi7GXCxe0hIQRWwvIkZ1wI3fCHk.jpg" group-title="FILMES DO CINEMA",Nuremberg (2025)
+https://watch.brstream.cc/m3u8/12/66c3f86ac905496e4ab21a2bc5fb33f1/master.txt?s=1&id=35130&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fROIhakCWyWX6Jb6Y4fF5fUoXM6.jpg" group-title="FILMES DO CINEMA",Morra, Amor (2025)
+https://watch.brstream.cc/m3u8/12/786929ce1b2e187510aca9b04a0f7254/master.txt?s=1&id=34389&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jl200vudAx2hhpg3mxZy1KCJgeK.jpg" group-title="FILMES DO CINEMA",Terror em Shelby Oaks (2025)
+https://watch.brstream.cc/m3u8/12/b754a30717cd71d8944a731e26b113f0/master.txt?s=1&id=33834&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZhnVSuIPj0u1UBsrgkihYznbky.jpg" group-title="FILMES DO CINEMA",Caçadores do Fim do Mundo (2025)
+https://watch.brstream.cc/m3u8/26/5bb8eb8417b7f8beacc2978bc3f1c002/master.txt?s=1&id=33510&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg" group-title="FILMES DO CINEMA",Casa de Dinamite (2025)
+https://watch.brstream.cc/m3u8/12/4a61f90089bdb5a4965c92b9b825afc5/master.txt?s=1&id=33184&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8qYYsOLVDg3dMdakor6V5cGfvS6.jpg" group-title="FILMES DO CINEMA",Bang Bang (2025)
+https://watch.brstream.cc/m3u8/12/9e39b45ba2d70f96218db979dc62b552/master.txt?s=1&id=31981&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7GUQmV3gP8bmITBV0YGSXNV9K3J.jpg" group-title="FILMES DO CINEMA",O Segredo da Chef (2025)
+https://watch.brstream.cc/m3u8/12/1b52316d70bb30edd173db4f2805c856/master.txt?s=1&id=30963&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5WtE3XOgnYRkB5vagppTX9TdUOj.jpg" group-title="FILMES DO CINEMA",Irmãos de Orfanato (2025)
+https://watch.brstream.cc/m3u8/12/3946286620b2e1ed380a77193fb7add7/master.txt?s=1&id=30964&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5WtE3XOgnYRkB5vagppTX9TdUOj.jpg" group-title="FILMES DO CINEMA",Irmãos de Orfanato (2025)
+https://watch.brstream.cc/m3u8/12/3946286620b2e1ed380a77193fb7add7/master.txt?s=1&id=30964&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xT88rTDQzZ1TOsiSpSY2jbvXVGM.jpg" group-title="FILMES DO CINEMA",Guns & Moses (2025)
+https://watch.brstream.cc/m3u8/12/cc0843a977aad2421486ae32ccc2c018/master.txt?s=1&id=30961&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg" group-title="FILMES DO CINEMA",Elio (2025)
+https://watch.brstream.cc/m3u8/27/b5403b2d202b8fe1db69b68b2c0c5e2b/master.txt?s=1&id=30978&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/s83N6x1NNlHUWQXVK2m6iRFi2iL.jpg" group-title="FILMES DO CINEMA",American Sweatshop (2025)
+https://watch.brstream.cc/m3u8/12/7b72563f6c1a6ea5bdaae6d3ab92cc10/master.txt?s=1&id=30959&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/c55sXCaQBj3vuHqZe62tv90xCQS.jpg" group-title="FILMES DO CINEMA",Demon Slayer: Kimetsu no Yaiba - Castelo Infinito (2025)
+https://watch.brstream.cc/m3u8/12/b7fd115d450e9773a673e93723316c4e/master.txt?s=1&id=30793&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg" group-title="FILMES DO CINEMA",Código 3 (2025)
+https://watch.brstream.cc/m3u8/12/3dd420c40e25463497c9fbaabf8b4621/master.txt?s=1&id=31060&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ytdK03kYesKHtBHJvlCQjLNtMre.jpg" group-title="FILMES DO CINEMA",O Rei da Feira (2025)
+https://watch.brstream.cc/m3u8/10/b03625c7a437a32ba45832b8e81c4271/master.txt?s=1&id=35554&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4tCvbUyx3C4APWjwv5yQyTXcWnq.jpg" group-title="FILMES DO CINEMA",Luta de Classes (2025)
+https://watch.brstream.cc/m3u8/26/4bd106ffe5e8ef167227db73267a1011/master.txt?s=1&id=30083&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8RcN5FHkJVNJdOaL6WtTePU7CyF.jpg" group-title="FILMES DO CINEMA",Witchboard (2025)
+https://watch.brstream.cc/m3u8/12/5b768a6943e0867ed0a8825406908b91/master.txt?s=1&id=30711&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4LV2kTS54D7v1da2ooQ8knhptLh.jpg" group-title="FILMES DO CINEMA",O Último Azul (2025)
+https://watch.brstream.cc/m3u8/12/5b768a6943e0867ed0a8825406908b91/master.txt?s=1&id=30711&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zHV02lJqwmYMqxZeezaQk1mwCTL.jpg" group-title="FILMES DO CINEMA",Transamazonia (2025)
+https://watch.brstream.cc/m3u8/12/ac358cbed52f811a87ccf33be3e5b5bb/master.txt?s=1&id=29431&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/elmSeaaA6i0WvQnaADE1mrYNHog.jpg" group-title="FILMES DO CINEMA",M3GAN 2.0 (2025)
+https://watch.brstream.cc/m3u8/26/9cb7b5ea641f6919eec4a49c7957c6e0/master.txt?s=1&id=28516&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/DnML8srxVUNndSvlHoCrxxu5dQ.jpg" group-title="FILMES DO CINEMA",Other (2025)
+https://watch.brstream.cc/m3u8/12/5005e1fac0746679ea5563e9b3c1fb26/master.txt?s=1&id=28261&cache=1
 
+########### FILMES DE 2026 ###########
 
-########## FILMES DE AÇÃO ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oKAuaGHFl6opv7PCY3By9HZqSLL.jpg" group-title="FILMES DE 2026",Caminhos do Crime - Ainda no cinema - (2026)
+https://watch.brstream.cc/m3u8/12/7d81853c3b9c80746412829fcf8d2049/master.txt?s=1&id=36723&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/y5Tv8rI9Ay87anaSPcTElXFNZnf.jpg" group-title="FILMES DE 2026",“O Morro dos Ventos Uivantes” - Ainda no cinema - (2026)
+https://watch.brstream.cc/m3u8/12/c2825659d5534ddb9ed6bf402a30470e/master.txt?s=1&id=36731&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg" group-title="FILMES DE 2026",Amor Demais - Ainda no cinema - (2026)
+https://watch.brstream.cc/m3u8/26/0f6cbdd7b5c93211c3012c2797dad506/master.txt?s=1&id=36730&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m64VvG9eFbWqFCjXs8gZ33iq0L5.jpg" group-title="FILMES DE 2026",Socorro! - Ainda no cinema - (2026) 
+https://watch.brstream.cc/m3u8/12/f063d53aa3a5c845e1b246dcdd0772fa/master.txt?s=1&id=36702&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1tX11KQzujSDXdszFNRvQbbNi72.jpg" group-title="FILMES DE 2026",O Som da Morte - Ainda no cinema - (2026) 
+https://watch.brstream.cc/m3u8/12/673ba172c0a9cb31b6b9223c25f4dde4/master.txt?s=1&id=36544&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7OR4UwZW6eTGIoNMujGAAtCnLCx.jpg" group-title="FILMES DE 2026",Justiça Artificial - Ainda no cinema - (2026)
+https://watch.brstream.cc/m3u8/12/c5d566ec3c2d5e81193cec5703b0c71c/master.txt?s=1&id=36195&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg" group-title="FILMES DE 2026",Alerta Apocalipse  - Ainda no cinema - (2026) 
+https://watch.brstream.cc/m3u8/12/e60af3c102de8282382170efa4972471/master.txt?s=1&id=36368&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4GLvhvocFpOn1z1DRqFeiBC7nBP.jpg" group-title="FILMES DE 2026",Extermínio: O Templo dos Ossos  - Ainda no cinema - (2026)
+https://watch.brstream.cc/m3u8/12/f71a344159282c7b94cb0e465f0fa610/master.txt?s=1&id=35978&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/niDeR6vC7mQka0rHzfNmKn8EmPk.jpg" group-title="FILMES DE 2026",Mandioca Frita  - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/26/38bc74612cf00df6d611b657bf0655bf/master.txt?s=1&id=36650&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/d5Grn6lkqQTZSeOcHZCz2utW58Q.jpg" group-title="FILMES DE 2026",O Primata  - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/26/b3793d60191d559f7ab979f5b00a1a17/master.txt?s=1&id=36648&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mRbdOe5vMnY3HXxLnWgRFJHbCPs.jpg" group-title="FILMES DE 2026",Terror em Silent Hill: Regresso Para o Inferno - Ainda no cinema - (2026)
+https://watch.brstream.cc/m3u8/12/6c8a12209e4818416c7a0fac9fe555c4/master.txt?s=1&id=36575&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mRbdOe5vMnY3HXxLnWgRFJHbCPs.jpg" group-title="FILMES DE 2026",De Férias com Você - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/12/6c8a12209e4818416c7a0fac9fe555c4/master.txt?s=1&id=36575&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kTVyIkrqxrdLYN9rLXhqljMiplj.jpg" group-title="FILMES DE 2026",Metas de Relacionamento - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/26/f282242afef97d009d90f7c360fb1882/master.txt?s=1&id=36474&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rVnxHAbQVtNbuz1ig3oSNyltj4I.jpg" group-title="FILMES DE 2026",O Show dos Muppets - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/26/5a551638e7055d39e3c2eaf4faf85c79/master.txt?s=1&id=36473&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5ivxdAWTJf6YdQDBLmysTgJiqqh.jpg" group-title="FILMES DE 2026",Nossa Vizinhança - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/26/54e1667a682619437f005874858da869/master.txt?s=1&id=36286&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg" group-title="FILMES DE 2026",Dupla Perigosa - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/26/e5424ca892fb503e2f87d4dcb2bb8570/master.txt?s=1&id=36318&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xNOOOaRmv3NvRnVx8L0FK1aIq6N.jpg" group-title="FILMES DE 2026",Uma Carta à Minha Juventude - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/26/95d89f1aafa28ac92eb3963212571e04/master.txt?s=1&id=36405&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kruMkxPyLf8bZIuu53JxgyZ29kj.jpg" group-title="FILMES DE 2026",O Falsário - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/26/88447d3a2c4e50237d32431a087518dd/master.txt?s=1&id=36143&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tURYBXokwJf4ROrNTc8W3YGLait.jpg" group-title="FILMES DE 2026",Alarme de Incêndio: Abaixo da Terra - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/26/ed1b9807eea87cdd31bc57a81490bb43/master.txt?s=1&id=36116&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9lHbzF8h1do99LlIis8iemMOZSj.jpg" group-title="FILMES DE 2026",Kaguya: A Princesa Espacial - Filmes 2026 - (2026)
+https://watch.brstream.cc/m3u8/26/7d9333484136f9bee0b36aef0d8b079f/master.txt?s=1&id=36117&cache=1
 
+########### FILMES DE 2025 ###########
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4tCvbUyx3C4APWjwv5yQyTXcWnq.jpg" group-title="FILMES DE 2025",Luta de Classes - Ainda no cinema - (2025) 
+https://watch.brstream.cc/m3u8/26/4bd106ffe5e8ef167227db73267a1011/master.txt?s=1&id=30083&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8RcN5FHkJVNJdOaL6WtTePU7CyF.jpg" group-title="FILMES DE 2025",Witchboard - Ainda no cinema - (2025) 
+https://watch.brstream.cc/m3u8/12/5b768a6943e0867ed0a8825406908b91/master.txt?s=1&id=30711&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4LV2kTS54D7v1da2ooQ8knhptLh.jpg" group-title="FILMES DE 2025",O Último Azul - Ainda no cinema - (2025) 
+https://watch.brstream.cc/m3u8/12/5b768a6943e0867ed0a8825406908b91/master.txt?s=1&id=30711&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nw5v0fVDuuVg2KRKEieLgsb3vbt.jpg" group-title="FILMES DE 2025",Destruição Final 2 - Ainda no cinema - (2025) 
+https://watch.brstream.cc/m3u8/12/da0276616a3e13b74f457ac86c15c3e8/master.txt?s=1&id=36533&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5WtE3XOgnYRkB5vagppTX9TdUOj.jpg" group-title="FILMES DE 2025",Irmãos de Orfanato - Ainda no cinema - (2025) 
+https://watch.brstream.cc/m3u8/12/3946286620b2e1ed380a77193fb7add7/master.txt?s=1&id=30964&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ytdK03kYesKHtBHJvlCQjLNtMre.jpg" group-title="FILMES DE 2025",O Rei da Feira  - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/0fe814b34f8735c80c4c0933e4e910f7/master.txt?s=1&id=30482&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg" group-title="FILMES DE 2025",Código 3  - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/3dd420c40e25463497c9fbaabf8b4621/master.txt?s=1&id=31060&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/s83N6x1NNlHUWQXVK2m6iRFi2iL.jpg" group-title="FILMES DE 2025",American Sweatshop - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/7b72563f6c1a6ea5bdaae6d3ab92cc10/master.txt?s=1&id=30959&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7GUQmV3gP8bmITBV0YGSXNV9K3J.jpg" group-title="FILMES DE 2025",O Segredo da Chef  - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/1b52316d70bb30edd173db4f2805c856/master.txt?s=1&id=30963&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8qYYsOLVDg3dMdakor6V5cGfvS6.jpg" group-title="FILMES DE 2025",Bang Bang  - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/9e39b45ba2d70f96218db979dc62b552/master.txt?s=1&id=31981&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xL18kd52vU8glcRTta6SpWhdZvF.jpg" group-title="FILMES DE 2025",Traição Entre Amigas  - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/67967c07b2e94e8b169717ade98b5b2b/master.txt?s=1&id=35522&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg" group-title="FILMES DE 2025",Família de Aluguel - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/b9fdece3130f9e19955c2c3f087168f9/master.txt?s=1&id=35894&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/c55sXCaQBj3vuHqZe62tv90xCQS.jpg" group-title="FILMES DE 2025",Demon Slayer: Kimetsu no Yaiba - Castelo Infinito - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/b7fd115d450e9773a673e93723316c4e/master.txt?s=1&id=30793&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/45HfLpaQQSw05PXIeG5Xc7VVxTb.jpg" group-title="FILMES DE 2025",Song Sung Blue: Um Sonho a Dois - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/2151a9acfad2cad72725a1859f8ca776/master.txt?s=1&id=35572&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m0Wx79hH2mfIp8G4eKFtb4awolB.jpg" group-title="FILMES DE 2025",Avatar: Fogo e Cinzas - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/f69b857233949c6a79158d4bb7ab5061/master.txt?s=1&id=35473&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fi7GXCxe0hIQRWwvIkZ1wI3fCHk.jpg" group-title="FILMES DE 2025",Nuremberg - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/66c3f86ac905496e4ab21a2bc5fb33f1/master.txt?s=1&id=35130&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uD1SSjSxu0LjnbzDQiuunPiqBa9.jpg" group-title="FILMES DE 2025",Sisu: Road To Revenge - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/5aae68270b448da2adfa823502b512a8/master.txt?s=1&id=35051&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zHV02lJqwmYMqxZeezaQk1mwCTL.jpg" group-title="FILMES DE 2025",Transamazonia - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/ac358cbed52f811a87ccf33be3e5b5bb/master.txt?s=1&id=29431&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/elmSeaaA6i0WvQnaADE1mrYNHog.jpg" group-title="FILMES DE 2025",M3GAN 2.0 - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/26/9cb7b5ea641f6919eec4a49c7957c6e0/master.txt?s=1&id=28516&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/DnML8srxVUNndSvlHoCrxxu5dQ.jpg" group-title="FILMES DE 2025",Other - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/5005e1fac0746679ea5563e9b3c1fb26/master.txt?s=1&id=28261&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg" group-title="FILMES DE 2025",Elio - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/27/b5403b2d202b8fe1db69b68b2c0c5e2b/master.txt?s=1&id=30978&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fthvYnjERbXt3ILjLjHpPNd5IVJ.jpg" group-title="FILMES DE 2025",Zootopia 2 - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/c20f3fd71bd6e1b66d31a9dab6504ac8/master.txt?s=1&id=35586&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgLUFJdveYcL9OvnFAnvtCczcqj.jpg" group-title="FILMES DE 2025",O Vingador Tóxico - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/75184ae2b04ef83f12bc2173bb8962af/master.txt?s=1&id=32077&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCMOHK9k8MIm95xCCKFwdIZkNc6.jpg" group-title="FILMES DE 2025",Waltzing with Brando - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/d34250a7e859a05bb6a18edcc70564d8/master.txt?s=1&id=32083&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51drPz72PaeUGMQlu9QwwO2RvFP.jpg" group-title="FILMES DE 2025",A Casa Mágica da Gabby: O Filme - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/6a27685d602a50fe587c4ab6cfb07d90/master.txt?s=1&id=32816&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjJ3a3D2LwgRdaPgrqLxjA45laZ.jpg" group-title="FILMES DE 2025",Se Eu Tivesse Pernas, Eu Te Chutaria - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/251ac3d1e0619a1166fa15753157ea11/master.txt?s=1&id=32538&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMlqPrEtericgbnNO4PW2D7w4Cj.jpg" group-title="FILMES DE 2025",Altered - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/0a38436397f65f4dba1b4393d81e9159/master.txt?s=1&id=33292&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="FILMES DE 2025",Lago dos Ossos - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/8b16ef0e8dc41ac2f4d58e0a45621922/master.txt?s=1&id=32508&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jl200vudAx2hhpg3mxZy1KCJgeK.jpg" group-title="FILMES DE 2025",Terror em Shelby Oaks - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/b754a30717cd71d8944a731e26b113f0/master.txt?s=1&id=33834&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg" group-title="FILMES DE 2025",#SalveRosa - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/ee1d01930813d9f10858db96fd9d58b1/master.txt?s=1&id=33589&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZhnVSuIPj0u1UBsrgkihYznbky.jpg" group-title="FILMES DE 2025",Caçadores do Fim do Mundo - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/26/5bb8eb8417b7f8beacc2978bc3f1c002/master.txt?s=1&id=33510&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg" group-title="FILMES DE 2025",Casa de Dinamite - Ainda no cinema - (2025)
+https://watch.brstream.cc/m3u8/12/4a61f90089bdb5a4965c92b9b825afc5/master.txt?s=1&id=33184&cache=1
+
+########### FILMES DE ANIMAÇÃO ###########
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/c55sXCaQBj3vuHqZe62tv90xCQS.jpg" group-title="FILMES DE ANIMAÇÃO",Demon Slayer: Kimetsu no Yaiba - Castelo Infinito - Animação - (2025)
+https://watch.brstream.cc/m3u8/12/b7fd115d450e9773a673e93723316c4e/master.txt?s=1&id=30793&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg" group-title="FILMES DE ANIMAÇÃO",Elio - Animação - (2025)
+https://watch.brstream.cc/m3u8/27/b5403b2d202b8fe1db69b68b2c0c5e2b/master.txt?s=1&id=30978&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fthvYnjERbXt3ILjLjHpPNd5IVJ.jpg" group-title="FILMES DE ANIMAÇÃO",Zootopia 2 - Animação - (2025)
+https://watch.brstream.cc/m3u8/12/c20f3fd71bd6e1b66d31a9dab6504ac8/master.txt?s=1&id=35586&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9lHbzF8h1do99LlIis8iemMOZSj.jpg" group-title="FILMES DE ANIMAÇÃO",Kaguya: A Princesa Espacial - Animação - (2026)
+https://watch.brstream.cc/m3u8/26/7d9333484136f9bee0b36aef0d8b079f/master.txt?s=1&id=36117&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg" group-title="FILMES DE ANIMAÇÃO",Balto - 1995
+https://watch.brstream.cc/m3u8/26/b8a8ace231fae55cbad834ad5b66e3d6/master.txt?s=1&id=31325&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTtNS0wryduqtGeVoaNJqrmzqNG.jpg" group-title="FILMES DE ANIMAÇÃO",Procurando Dory - 2016
+https://watch.brstream.cc/m3u8/26/fdbdddfe8c4df643ec18e5f931bada26/master.txt?s=1&id=31662&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVbNDmPrbnfgINfEoAMx41N7IfH.jpg" group-title="FILMES DE ANIMAÇÃO",Trolls - 2016
+https://watch.brstream.cc/m3u8/26/3484575740e7d74362f6a1ab0ac89a50/master.txt?s=1&id=31664&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Dx4uZ3HVkaDLk3WNsOxOaMIYIr.jpg" group-title="FILMES DE ANIMAÇÃO",Batman Azteca: Choque de Impérios - 2025
+https://watch.brstream.cc/m3u8/27/01f11b1dc7251b4dad589e664e28aaf6/master.txt?s=1&id=34222&cache=1
+
+########### FILMES DE AÇÃO ###########
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nw5v0fVDuuVg2KRKEieLgsb3vbt.jpg" group-title="FILMES DE AÇÃO",Destruição Final 2 - Ação - (2025) 
+https://watch.brstream.cc/m3u8/12/da0276616a3e13b74f457ac86c15c3e8/master.txt?s=1&id=36533&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5WtE3XOgnYRkB5vagppTX9TdUOj.jpg" group-title="FILMES DE AÇÃO",Irmãos de Orfanato - Ação - (2025)  
+https://watch.brstream.cc/m3u8/12/3946286620b2e1ed380a77193fb7add7/master.txt?s=1&id=30964&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg" group-title="FILMES DE AÇÃO",Código 3 - Ação - (2025)
+https://watch.brstream.cc/m3u8/12/3dd420c40e25463497c9fbaabf8b4621/master.txt?s=1&id=31060&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7OR4UwZW6eTGIoNMujGAAtCnLCx.jpg" group-title="FILMES DE AÇÃO",Justiça Artificial - Ação - (2026)
+https://watch.brstream.cc/m3u8/12/c5d566ec3c2d5e81193cec5703b0c71c/master.txt?s=1&id=36195&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uD1SSjSxu0LjnbzDQiuunPiqBa9.jpg" group-title="FILMES DE AÇÃO",Sisu: Road To Revenge - Ação - (2025)
+https://watch.brstream.cc/m3u8/12/5aae68270b448da2adfa823502b512a8/master.txt?s=1&id=35051&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/elmSeaaA6i0WvQnaADE1mrYNHog.jpg" group-title="FILMES DE AÇÃO",M3GAN 2.0 - Ação - (2025)
+https://watch.brstream.cc/m3u8/26/9cb7b5ea641f6919eec4a49c7957c6e0/master.txt?s=1&id=28516&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgLUFJdveYcL9OvnFAnvtCczcqj.jpg" group-title="FILMES DE AÇÃO",O Vingador Tóxico - Ação - (2025)
+https://watch.brstream.cc/m3u8/12/75184ae2b04ef83f12bc2173bb8962af/master.txt?s=1&id=32077&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMlqPrEtericgbnNO4PW2D7w4Cj.jpg" group-title="FILMES DE AÇÃO",Altered - Ação - (2025)
+https://watch.brstream.cc/m3u8/12/0a38436397f65f4dba1b4393d81e9159/master.txt?s=1&id=33292&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZhnVSuIPj0u1UBsrgkihYznbky.jpg" group-title="FILMES DE AÇÃO",Caçadores do Fim do Mundo - Ação - (2025)
+https://watch.brstream.cc/m3u8/26/5bb8eb8417b7f8beacc2978bc3f1c002/master.txt?s=1&id=33510&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg" group-title="FILMES DE AÇÃO",Dupla Perigosa - Ação - (2026)
+https://watch.brstream.cc/m3u8/26/e5424ca892fb503e2f87d4dcb2bb8570/master.txt?s=1&id=36318&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iajTcyco5MEscLp0ue59lVY2WtH.jpg" group-title="FILMES DE AÇÃO",Carga Explosiva - 2002
 https://watch.brstream.cc/m3u8/26/f894de0e96476139a9bd8386cfa2527d/master.txt?s=1&id=27763&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Vo1KYTe0LWakRxTwp3scw8Ti6u.jpg" group-title="FILMES DE AÇÃO",Carga Explosiva 2 - 2005
@@ -61,41 +296,51 @@ https://watch.brstream.cc/m3u8/26/813c26fc0c3bf64573a10eafb3f8e5ee/master.txt?s=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC57SSZAkkLBCuWVsEfbqYkRda5.jpg" group-title="FILMES DE AÇÃO",Karate Kid - 2010
 https://watch.brstream.cc/m3u8/26/2b962f0b627cf45414b498eb963dde7d/master.txt?s=1&id=27290&cache=1
 
+########### FILMES DE AVENTURA ###########
 
-########## FILMES DE GUERRA ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/c55sXCaQBj3vuHqZe62tv90xCQS.jpg" group-title="FILMES DE AVENTURA",Demon Slayer: Kimetsu no Yaiba - Castelo Infinito - Aventura - (2025)
+https://watch.brstream.cc/m3u8/12/b7fd115d450e9773a673e93723316c4e/master.txt?s=1&id=30793&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m0Wx79hH2mfIp8G4eKFtb4awolB.jpg" group-title="FILMES DE AVENTURA",Avatar: Fogo e Cinzas - Aventura - (2025)
+https://watch.brstream.cc/m3u8/12/f69b857233949c6a79158d4bb7ab5061/master.txt?s=1&id=35473&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51drPz72PaeUGMQlu9QwwO2RvFP.jpg" group-title="FILMES DE AVENTURA",A Casa Mágica da Gabby: O Filme - Aventura - (2025)
+https://watch.brstream.cc/m3u8/12/6a27685d602a50fe587c4ab6cfb07d90/master.txt?s=1&id=32816&cache=1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCsGDUdCBUXMNGANdyXSDFZPCMO.jpg" group-title="FILMES DE GUERRA",Prisioneiro de Guerra - 2025
-https://watch.brstream.cc/m3u8/26/96c38b959c1e40beeb302b9ca2edbfc2/master.txt?s=1&id=34135&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUSX6LLvEZWRZIdrz9guOG5hFvd.jpg" group-title="FILMES DE GUERRA",A Agente Polonesa - 2025
-https://watch.brstream.cc/m3u8/26/41cb1109a21920a38bd0cfff6125fcc9/master.txt?s=1&id=34137&cache=1
+########### FILMES DE COMÉDIA ###########
 
-
-########## FILMES DE TERROR ##########
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iluZwBX2vg3CmdLP25UNccpnFF.jpg" group-title="FILMES DE TERROR",As Ruínas - 2008
-https://watch.brstream.cc/m3u8/26/5b347a27844fa303dd8c02b7da1c9206/master.txt?s=1&id=31324&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCXbycpYoRjbFa0ZHzEIj9Gazas.jpg" group-title="FILMES DE TERROR",A Garota da Capa Vermelha - 2011
-https://watch.brstream.cc/m3u8/26/365aa6ebdc3dbf28e7b9ea1c1b4d2908/master.txt?s=1&id=31319&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="FILMES DE TERROR",Maligno - 2021
-https://watch.brstream.cc/m3u8/27/8d6b31ed2ba3ecd5a1c7a80773f01ec2/master.txt?s=1&id=31099&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tdcvT3ZyPBluzmQTevgn503jpg.jpg" group-title="FILMES DE TERROR",A Órfã - 2009
-https://watch.brstream.cc/m3u8/26/ec04a75ca6302d347df2f803efe8c5bd/master.txt?s=1&id=31618&cache=1
-
-
-########## FILMES INFANTIL ##########
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg" group-title="FILMES INFANTIL",Balto - 1995
-https://watch.brstream.cc/m3u8/26/b8a8ace231fae55cbad834ad5b66e3d6/master.txt?s=1&id=31325&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTtNS0wryduqtGeVoaNJqrmzqNG.jpg" group-title="FILMES INFANTIL",Procurando Dory - 2016
-https://watch.brstream.cc/m3u8/26/fdbdddfe8c4df643ec18e5f931bada26/master.txt?s=1&id=31662&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVbNDmPrbnfgINfEoAMx41N7IfH.jpg" group-title="FILMES INFANTIL",Trolls - 2016
-https://watch.brstream.cc/m3u8/26/3484575740e7d74362f6a1ab0ac89a50/master.txt?s=1&id=31664&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Dx4uZ3HVkaDLk3WNsOxOaMIYIr.jpg" group-title="FILMES INFANTIL",Batman Azteca: Choque de Impérios - 2025
-https://watch.brstream.cc/m3u8/27/01f11b1dc7251b4dad589e664e28aaf6/master.txt?s=1&id=34222&cache=1
-
-
-########## FILMES DE COMÉDIA ##########
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vwqQbN0gCOUerdoglA96VEtYzUg.jpg" group-title="FILMES DE DRAMA",Joe e a Viagem de Carro - Comédia - (2026)
+https://watch.brstream.cc/m3u8/26/aafa7c874d0d45e91e3712364dd8e574/master.txt?s=1&id=36727&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4LV2kTS54D7v1da2ooQ8knhptLh.jpg" group-title="FILMES DE COMÉDIA",O Último Azul - Comédia - (2025) 
+https://watch.brstream.cc/m3u8/12/5b768a6943e0867ed0a8825406908b91/master.txt?s=1&id=30711&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m64VvG9eFbWqFCjXs8gZ33iq0L5.jpg" group-title="FILMES DE COMÉDIA",Socorro! - Comédia - (2026) 
+https://watch.brstream.cc/m3u8/12/f063d53aa3a5c845e1b246dcdd0772fa/master.txt?s=1&id=36702&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ytdK03kYesKHtBHJvlCQjLNtMre.jpg" group-title="FILMES DE COMÉDIA",O Rei da Feira  - Comédia - (2025)
+https://watch.brstream.cc/m3u8/12/0fe814b34f8735c80c4c0933e4e910f7/master.txt?s=1&id=30482&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg" group-title="FILMES DE COMÉDIA",Código 3  - Comédia - (2025)
+https://watch.brstream.cc/m3u8/12/3dd420c40e25463497c9fbaabf8b4621/master.txt?s=1&id=31060&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7GUQmV3gP8bmITBV0YGSXNV9K3J.jpg" group-title="FILMES DE COMÉDIA",O Segredo da Chef  - Comédia - (2025)
+https://watch.brstream.cc/m3u8/12/1b52316d70bb30edd173db4f2805c856/master.txt?s=1&id=30963&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg" group-title="FILMES DE COMÉDIA",Alerta Apocalipse  - Comédia - (2026) 
+https://watch.brstream.cc/m3u8/12/e60af3c102de8282382170efa4972471/master.txt?s=1&id=36368&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg" group-title="FILMES DE COMÉDIA",Família de Aluguel - Comédia - (2025)
+https://watch.brstream.cc/m3u8/12/b9fdece3130f9e19955c2c3f087168f9/master.txt?s=1&id=35894&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgLUFJdveYcL9OvnFAnvtCczcqj.jpg" group-title="FILMES DE COMÉDIA",O Vingador Tóxico - Comédia - (2025)
+https://watch.brstream.cc/m3u8/12/75184ae2b04ef83f12bc2173bb8962af/master.txt?s=1&id=32077&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCMOHK9k8MIm95xCCKFwdIZkNc6.jpg" group-title="FILMES DE COMÉDIA",Waltzing with Brando - Comédia - (2025)
+https://watch.brstream.cc/m3u8/12/d34250a7e859a05bb6a18edcc70564d8/master.txt?s=1&id=32083&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51drPz72PaeUGMQlu9QwwO2RvFP.jpg" group-title="FILMES DE COMÉDIA",A Casa Mágica da Gabby: O Filme - Comédia - (2025)
+https://watch.brstream.cc/m3u8/12/6a27685d602a50fe587c4ab6cfb07d90/master.txt?s=1&id=32816&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZhnVSuIPj0u1UBsrgkihYznbky.jpg" group-title="FILMES DE COMÉDIA",Caçadores do Fim do Mundo - Comédia - (2025)
+https://watch.brstream.cc/m3u8/26/5bb8eb8417b7f8beacc2978bc3f1c002/master.txt?s=1&id=33510&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/niDeR6vC7mQka0rHzfNmKn8EmPk.jpg" group-title="FILMES DE COMÉDIA",Mandioca Frita  - Comédia - (2026)
+https://watch.brstream.cc/m3u8/26/38bc74612cf00df6d611b657bf0655bf/master.txt?s=1&id=36650&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mRbdOe5vMnY3HXxLnWgRFJHbCPs.jpg" group-title="FILMES DE COMÉDIA",De Férias com Você - Comédia - (2026)
+https://watch.brstream.cc/m3u8/12/6c8a12209e4818416c7a0fac9fe555c4/master.txt?s=1&id=36575&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kTVyIkrqxrdLYN9rLXhqljMiplj.jpg" group-title="FILMES DE COMÉDIA",Metas de Relacionamento - Comédia - (2026)
+https://watch.brstream.cc/m3u8/26/f282242afef97d009d90f7c360fb1882/master.txt?s=1&id=36474&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rVnxHAbQVtNbuz1ig3oSNyltj4I.jpgg" group-title="FILMES DE COMÉDIA",O Show dos Muppets - Comédia - (2026)
+https://watch.brstream.cc/m3u8/26/5a551638e7055d39e3c2eaf4faf85c79/master.txt?s=1&id=36473&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg" group-title="FILMES DE COMÉDIA",Dupla Perigosa - Comédia - (2026)
+https://watch.brstream.cc/m3u8/26/e5424ca892fb503e2f87d4dcb2bb8570/master.txt?s=1&id=36318&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0gXEtW82gLwWGkXwORf4f8eU4p.jpg" group-title="FILMES DE COMÉDIA",Um Noivo e Duas Noivas - 2025
 https://watch.brstream.cc/m3u8/26/90f2041eeb835d118c1b6d02904b6e3a/master.txt?s=1&id=34223&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o18Uhb60ePW7QcGOFNMcHeyIUkJ.jpg" group-title="FILMES DE COMÉDIA",Uma Casa em Chamas (2024)
@@ -111,67 +356,153 @@ https://watch.brstream.cc/m3u8/26/8553bf408bb98c10bf0fdd4220b50329/master.txt?s=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZExVc4fuAFSdh2VsHI1pN4Izqp.jpg" group-title="FILMES DE COMÉDIA",O Quiosque - 2024
 https://watch.brstream.cc/m3u8/26/87208431a38b263a8212d32da9222f2d/master.txt?s=1&id=27885&cache=1
 
-########## FILMES DE DRAMA ##########
+########### FILMES DE CRIME###########
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/Aaf3xZEIB1WFC5RKR54wVRPzc2L.jpg" group-title="FILMES DE DRAMA",O Amor Move Ondas - 2022
-https://watch.brstream.cc/m3u8/10/383b440962aa48e9b4bb8b51701bb76e/master.txt?s=1&id=40861&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oKAuaGHFl6opv7PCY3By9HZqSLL.jpg" group-title="FILMES DE CRIME",Caminhos do Crime - Crime - (2026)
+https://watch.brstream.cc/m3u8/12/7d81853c3b9c80746412829fcf8d2049/master.txt?s=1&id=36723&cache=1
 
+########### FILMES DE DRANA ###########
 
-########## FILMES DE ROMANCE ##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/y5Tv8rI9Ay87anaSPcTElXFNZnf.jpg" group-title="FILMES DE DRAMA",“O Morro dos Ventos Uivantes” - Drama - (2026)
+https://watch.brstream.cc/m3u8/12/c2825659d5534ddb9ed6bf402a30470e/master.txt?s=1&id=36731&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg" group-title="FILMES DE DRAMA",Amor Demais - Drama - (2026)
+https://watch.brstream.cc/m3u8/26/0f6cbdd7b5c93211c3012c2797dad506/master.txt?s=1&id=36730&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4tCvbUyx3C4APWjwv5yQyTXcWnq.jpg" group-title="FILMES DE DRAMA",Luta de Classes - Drama - (2025) 
+https://watch.brstream.cc/m3u8/26/4bd106ffe5e8ef167227db73267a1011/master.txt?s=1&id=30083&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4LV2kTS54D7v1da2ooQ8knhptLh.jpg" group-title="FILMES DE DRAMA",O Último Azul - Drama - (2025) 
+https://watch.brstream.cc/m3u8/12/5b768a6943e0867ed0a8825406908b91/master.txt?s=1&id=30711&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7GUQmV3gP8bmITBV0YGSXNV9K3J.jpg" group-title="FILMES DE DRAMA",O Segredo da Chef  - Drama - (2025)
+https://watch.brstream.cc/m3u8/12/1b52316d70bb30edd173db4f2805c856/master.txt?s=1&id=30963&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8qYYsOLVDg3dMdakor6V5cGfvS6.jpg" group-title="FILMES DE DRAMA",Bang Bang  - Drama - (2025)
+https://watch.brstream.cc/m3u8/12/9e39b45ba2d70f96218db979dc62b552/master.txt?s=1&id=31981&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xL18kd52vU8glcRTta6SpWhdZvF.jpg" group-title="FILMES DE DRAMA",Traição Entre Amigas  - Drama - (2025)
+https://watch.brstream.cc/m3u8/12/67967c07b2e94e8b169717ade98b5b2b/master.txt?s=1&id=35522&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg" group-title="FILMES DE DRAMA",Família de Aluguel - Drama - (2025)
+https://watch.brstream.cc/m3u8/12/b9fdece3130f9e19955c2c3f087168f9/master.txt?s=1&id=35894&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/45HfLpaQQSw05PXIeG5Xc7VVxTb.jpg" group-title="FILMES DE DRAMA",Song Sung Blue: Um Sonho a Dois - Drama - (2025)
+https://watch.brstream.cc/m3u8/12/2151a9acfad2cad72725a1859f8ca776/master.txt?s=1&id=35572&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fi7GXCxe0hIQRWwvIkZ1wI3fCHk.jpg" group-title="FILMES DE DRAMA",Nuremberg - Drama - (2025)
+https://watch.brstream.cc/m3u8/12/66c3f86ac905496e4ab21a2bc5fb33f1/master.txt?s=1&id=35130&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zHV02lJqwmYMqxZeezaQk1mwCTL.jpg" group-title="FILMES DE DRAMA",Transamazonia - Drama - (2025)
+https://watch.brstream.cc/m3u8/12/ac358cbed52f811a87ccf33be3e5b5bb/master.txt?s=1&id=29431&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCMOHK9k8MIm95xCCKFwdIZkNc6.jpg" group-title="FILMES DE DRAMA",Waltzing with Brando - Drama - (2025)
+https://watch.brstream.cc/m3u8/12/d34250a7e859a05bb6a18edcc70564d8/master.txt?s=1&id=32083&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjJ3a3D2LwgRdaPgrqLxjA45laZ.jpg" group-title="FILMES DE DRAMA",Se Eu Tivesse Pernas, Eu Te Chutaria - Drama - (2025)
+https://watch.brstream.cc/m3u8/12/251ac3d1e0619a1166fa15753157ea11/master.txt?s=1&id=32538&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg" group-title="FILMES DE DRAMA",#SalveRosa - Drama - (2025)
+https://watch.brstream.cc/m3u8/12/ee1d01930813d9f10858db96fd9d58b1/master.txt?s=1&id=33589&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/niDeR6vC7mQka0rHzfNmKn8EmPk.jpg" group-title="FILMES DE DRAMA",Mandioca Frita  - Drama - (2026)
+https://watch.brstream.cc/m3u8/26/38bc74612cf00df6d611b657bf0655bf/master.txt?s=1&id=36650&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mRbdOe5vMnY3HXxLnWgRFJHbCPs.jpg" group-title="FILMES DE DRAMA",De Férias com Você - Drama - (2026)
+https://watch.brstream.cc/m3u8/12/6c8a12209e4818416c7a0fac9fe555c4/master.txt?s=1&id=36575&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5ivxdAWTJf6YdQDBLmysTgJiqqh.jpg" group-title="FILMES DE DRAMA",Nossa Vizinhança - Drama - (2026)
+https://watch.brstream.cc/m3u8/26/54e1667a682619437f005874858da869/master.txt?s=1&id=36286&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xNOOOaRmv3NvRnVx8L0FK1aIq6N.jpg" group-title="FILMES DE DRAMA",Uma Carta à Minha Juventude - Drama - (2026)
+https://watch.brstream.cc/m3u8/26/95d89f1aafa28ac92eb3963212571e04/master.txt?s=1&id=36405&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kruMkxPyLf8bZIuu53JxgyZ29kj.jpg" group-title="FILMES DE DRAMA",O Falsário - Drama - (2026)
+https://watch.brstream.cc/m3u8/26/88447d3a2c4e50237d32431a087518dd/master.txt?s=1&id=36143&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tURYBXokwJf4ROrNTc8W3YGLait.jpg" group-title="FILMES DE DRAMA",Alarme de Incêndio: Abaixo da Terra - Drama - (2026)
+https://watch.brstream.cc/m3u8/26/ed1b9807eea87cdd31bc57a81490bb43/master.txt?s=1&id=36116&cache=1
+
+########### FILMES DE ROMANCE ###########
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmZ58zzKrGZV1kBQAjIkhwTf3xe.jpg" group-title="FILMES DE ROMANCE",Manga - 2025
 https://watch.brstream.cc/m3u8/26/73907fed82d21d4b3700c31aefb6b3c0/master.txt?s=1&id=34242&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/Aaf3xZEIB1WFC5RKR54wVRPzc2L.jpg" group-title="FILMES DE ROMANCE",O Amor Move Ondas - 2022
-https://watch.brstream.cc/m3u8/10/383b440962aa48e9b4bb8b51701bb76e/master.txt?s=1&id=40861&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/y5Tv8rI9Ay87anaSPcTElXFNZnf.jpg" group-title="FILMES DE ROMANCE",“O Morro dos Ventos Uivantes” - Romance - (2026)
+https://watch.brstream.cc/m3u8/12/c2825659d5534ddb9ed6bf402a30470e/master.txt?s=1&id=36731&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg" group-title="FILMES DE ROMANCE",Amor Demais - Romance - (2026)
+https://watch.brstream.cc/m3u8/26/0f6cbdd7b5c93211c3012c2797dad506/master.txt?s=1&id=36730&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xL18kd52vU8glcRTta6SpWhdZvF.jpg" group-title="FILMES DE ROMANCE",Traição Entre Amigas  - Romance - (2025)
+https://watch.brstream.cc/m3u8/12/67967c07b2e94e8b169717ade98b5b2b/master.txt?s=1&id=35522&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/45HfLpaQQSw05PXIeG5Xc7VVxTb.jpg" group-title="FILMES DE ROMANCE",Song Sung Blue: Um Sonho a Dois - Romance - (2025)
+https://watch.brstream.cc/m3u8/12/2151a9acfad2cad72725a1859f8ca776/master.txt?s=1&id=35572&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mRbdOe5vMnY3HXxLnWgRFJHbCPs.jpg" group-title="FILMES DE ROMANCE",De Férias com Você - Romance - (2026)
+https://watch.brstream.cc/m3u8/12/6c8a12209e4818416c7a0fac9fe555c4/master.txt?s=1&id=36575&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kTVyIkrqxrdLYN9rLXhqljMiplj.jpg" group-title="FILMES DE ROMANCE",Metas de Relacionamento - Romance - (2026)
+https://watch.brstream.cc/m3u8/26/f282242afef97d009d90f7c360fb1882/master.txt?s=1&id=36474&cache=1
 
+########### FILMES DE FICÇÃO ###########
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4LV2kTS54D7v1da2ooQ8knhptLh.jpg" group-title="FILMES DE FICÇÃO",O Último Azul - Ficção - (2025) 
+https://watch.brstream.cc/m3u8/12/5b768a6943e0867ed0a8825406908b91/master.txt?s=1&id=30711&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nw5v0fVDuuVg2KRKEieLgsb3vbt.jpg" group-title="FILMES DE FICÇÃO",Destruição Final 2 - Ficção - (2025) 
+https://watch.brstream.cc/m3u8/12/da0276616a3e13b74f457ac86c15c3e8/master.txt?s=1&id=36533&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7OR4UwZW6eTGIoNMujGAAtCnLCx.jpg" group-title="FILMES DE FICÇÃO",Justiça Artificial - Ficção - (2026)
+https://watch.brstream.cc/m3u8/12/c5d566ec3c2d5e81193cec5703b0c71c/master.txt?s=1&id=36195&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg" group-title="FILMES DE FICÇÃO",Alerta Apocalipse  - Ficção - (2026) 
+https://watch.brstream.cc/m3u8/12/e60af3c102de8282382170efa4972471/master.txt?s=1&id=36368&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4GLvhvocFpOn1z1DRqFeiBC7nBP.jpg" group-title="FILMES DE FICÇÃO",Extermínio: O Templo dos Ossos  - Ficção - (2026)
+https://watch.brstream.cc/m3u8/12/f71a344159282c7b94cb0e465f0fa610/master.txt?s=1&id=35978&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m0Wx79hH2mfIp8G4eKFtb4awolB.jpg" group-title="FILMES DE FICÇÃO",Avatar: Fogo e Cinzas - Ficção - (2025)
+https://watch.brstream.cc/m3u8/12/f69b857233949c6a79158d4bb7ab5061/master.txt?s=1&id=35473&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/elmSeaaA6i0WvQnaADE1mrYNHog.jpg" group-title="FILMES DE FICÇÃO",M3GAN 2.0 - Ficção - (2025)
+https://watch.brstream.cc/m3u8/26/9cb7b5ea641f6919eec4a49c7957c6e0/master.txt?s=1&id=28516&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/DnML8srxVUNndSvlHoCrxxu5dQ.jpg" group-title="FILMES DE FICÇÃO",Other - Ficção - (2025)
+https://watch.brstream.cc/m3u8/12/5005e1fac0746679ea5563e9b3c1fb26/master.txt?s=1&id=28261&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMlqPrEtericgbnNO4PW2D7w4Cj.jpg" group-title="FILMES DE FICÇÃO",Altered - Ficção - (2025)
+https://watch.brstream.cc/m3u8/12/0a38436397f65f4dba1b4393d81e9159/master.txt?s=1&id=33292&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZhnVSuIPj0u1UBsrgkihYznbky.jpg" group-title="FILMES DE FICÇÃO",Caçadores do Fim do Mundo - Ficção - (2025)
+https://watch.brstream.cc/m3u8/26/5bb8eb8417b7f8beacc2978bc3f1c002/master.txt?s=1&id=33510&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg" group-title="FILMES DE FICÇÃO",Devoradores de Estrelas (2026)
+https://watch.brstream.cc/m3u8/10/32b37189d500243b8277718b2ebb9192/master.txt?s=1&id=39065&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3NQlRZoNWui1Z6VkUPLsdwbtnWg.jpg" group-title="FILMES DE FICÇÃO",IA Alienígena: Abduzida (2024)
+https://watch.brstream.cc/m3u8/12/21284c80df6ca5a2a55705829894a866/master.txt?s=1&id=38310&cache=1
+
+########### FILMES DE SUSPENSE ###########
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1tX11KQzujSDXdszFNRvQbbNi72.jpg" group-title="FILMES DE SUSPENSE",O Som da Morte - Suspense - (2026) 
+https://watch.brstream.cc/m3u8/12/673ba172c0a9cb31b6b9223c25f4dde4/master.txt?s=1&id=36544&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/s83N6x1NNlHUWQXVK2m6iRFi2iL.jpg" group-title="FILMES DE SUSPENSE",American Sweatshop - Suspense - (2025)
+https://watch.brstream.cc/m3u8/12/7b72563f6c1a6ea5bdaae6d3ab92cc10/master.txt?s=1&id=30959&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="FILMES DE SUSPENSE",Lago dos Ossos - Suspense - (2025)
+https://watch.brstream.cc/m3u8/12/8b16ef0e8dc41ac2f4d58e0a45621922/master.txt?s=1&id=32508&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jl200vudAx2hhpg3mxZy1KCJgeK.jpg" group-title="FILMES DE SUSPENSE",Terror em Shelby Oaks - Suspense - (2025)
+https://watch.brstream.cc/m3u8/12/b754a30717cd71d8944a731e26b113f0/master.txt?s=1&id=33834&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg" group-title="FILMES DE SUSPENSE",#SalveRosa - Suspense - (2025)
+https://watch.brstream.cc/m3u8/12/ee1d01930813d9f10858db96fd9d58b1/master.txt?s=1&id=33589&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg" group-title="FILMES DE SUSPENSE",Casa de Dinamite - Suspense - (2025)
+https://watch.brstream.cc/m3u8/12/4a61f90089bdb5a4965c92b9b825afc5/master.txt?s=1&id=33184&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mRbdOe5vMnY3HXxLnWgRFJHbCPs.jpg" group-title="FILMES DE SUSPENSE",Terror em Silent Hill: Regresso Para o Inferno - Suspense - (2026)
+https://watch.brstream.cc/m3u8/12/6c8a12209e4818416c7a0fac9fe555c4/master.txt?s=1&id=36575&cache=1
+
+########### FILMES DE TERROR ###########
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8RcN5FHkJVNJdOaL6WtTePU7CyF.jpg" group-title="FILMES DE TERROR",Witchboard - Terror - (2025) 
+https://watch.brstream.cc/m3u8/12/5b768a6943e0867ed0a8825406908b91/master.txt?s=1&id=30711&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1tX11KQzujSDXdszFNRvQbbNi72.jpg" group-title="FILMES DE TERROR",O Som da Morte - Terror - (2026) 
+https://watch.brstream.cc/m3u8/12/673ba172c0a9cb31b6b9223c25f4dde4/master.txt?s=1&id=36544&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m64VvG9eFbWqFCjXs8gZ33iq0L5.jpg" group-title="FILMES DE TERROR",Socorro! - Terror - (2026) 
+https://watch.brstream.cc/m3u8/12/f063d53aa3a5c845e1b246dcdd0772fa/master.txt?s=1&id=36702&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4GLvhvocFpOn1z1DRqFeiBC7nBP.jpg" group-title="FILMES DE TERROR",Extermínio: O Templo dos Ossos  - Terror - (2026)
+https://watch.brstream.cc/m3u8/12/f71a344159282c7b94cb0e465f0fa610/master.txt?s=1&id=35978&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/DnML8srxVUNndSvlHoCrxxu5dQ.jpg" group-title="FILMES DE TERROR",Other - Terror - (2025)
+https://watch.brstream.cc/m3u8/12/5005e1fac0746679ea5563e9b3c1fb26/master.txt?s=1&id=28261&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="FILMES DE TERROR",Lago dos Ossos - Terror - (2025)
+https://watch.brstream.cc/m3u8/12/8b16ef0e8dc41ac2f4d58e0a45621922/master.txt?s=1&id=32508&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jl200vudAx2hhpg3mxZy1KCJgeK.jpg" group-title="FILMES DE TERROR",Terror em Shelby Oaks - Terror - (2025)
+https://watch.brstream.cc/m3u8/12/b754a30717cd71d8944a731e26b113f0/master.txt?s=1&id=33834&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/d5Grn6lkqQTZSeOcHZCz2utW58Q.jpg" group-title="FILMES DE TERROR",O Primata  - Terror - 2026
+https://watch.brstream.cc/m3u8/26/b3793d60191d559f7ab979f5b00a1a17/master.txt?s=1&id=36648&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mRbdOe5vMnY3HXxLnWgRFJHbCPs.jpg" group-title="FILMES DE TERROR",Terror em Silent Hill: Regresso Para o Inferno - Terror - (2026)
+https://watch.brstream.cc/m3u8/12/6c8a12209e4818416c7a0fac9fe555c4/master.txt?s=1&id=36575&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iluZwBX2vg3CmdLP25UNccpnFF.jpg" group-title="FILMES DE TERROR",As Ruínas - 2008
+https://watch.brstream.cc/m3u8/26/5b347a27844fa303dd8c02b7da1c9206/master.txt?s=1&id=31324&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCXbycpYoRjbFa0ZHzEIj9Gazas.jpg" group-title="FILMES DE TERROR",A Garota da Capa Vermelha - 2011
+https://watch.brstream.cc/m3u8/26/365aa6ebdc3dbf28e7b9ea1c1b4d2908/master.txt?s=1&id=31319&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="FILMES DE TERROR",Maligno - 2021
+https://watch.brstream.cc/m3u8/27/8d6b31ed2ba3ecd5a1c7a80773f01ec2/master.txt?s=1&id=31099&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tdcvT3ZyPBluzmQTevgn503jpg.jpg" group-title="FILMES DE TERROR",A Órfã - 2009
+https://watch.brstream.cc/m3u8/26/ec04a75ca6302d347df2f803efe8c5bd/master.txt?s=1&id=31618&cache=1
+
+########## FILMES DE GUERRA##########
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCsGDUdCBUXMNGANdyXSDFZPCMO.jpg" group-title="FILMES DE GUERRA",Prisioneiro de Guerra - 2025
+https://watch.brstream.cc/m3u8/26/96c38b959c1e40beeb302b9ca2edbfc2/master.txt?s=1&id=34135&cache=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUSX6LLvEZWRZIdrz9guOG5hFvd.jpg" group-title="FILMES DE GUERRA",A Agente Polonesa - 2025
+https://watch.brstream.cc/m3u8/26/41cb1109a21920a38bd0cfff6125fcc9/master.txt?s=1&id=34137&cache=1
 
 ########## DOCUMENTÁRIOS ##########
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJ3yt6ZxXJUoHA9Vf1j0i6U7s3y.jpg" group-title="DOCUMENTÁRIOS",Soberano - 2025
 https://watch.brstream.cc/m3u8/26/bfde2fdca264b06c6628212cc6589ad4/master.txt?s=1&id=34204&cache=1
 
-
-########## FILMES DE FICÇÃO ##########
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg" group-title="FICÇÃO",Devoradores de Estrelas (2026)
-https://watch.brstream.cc/m3u8/10/32b37189d500243b8277718b2ebb9192/master.txt?s=1&id=39065&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/3NQlRZoNWui1Z6VkUPLsdwbtnWg.jpg" group-title="FICÇÃO",IA Alienígena: Abduzida (2024)
-https://watch.brstream.cc/m3u8/12/21284c80df6ca5a2a55705829894a866/master.txt?s=1&id=38310&cache=1
-
-
-########## COLEÇÃO 🍿 HOMEM-ARANHA ##########
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/RbZQL5hXmydecu82UHw9ZGyytB.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",Homem-Aranha (2002)
-https://watch.brstream.cc/m3u8/26/74093e762e3747d3965126f98cbe4e57/master.txt?s=1&id=29486&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5831VrgpYNPEokBwxurLVpQ3twM.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",Homem-Aranha 3 (2007)
-https://watch.brstream.cc/m3u8/26/8ef3abcafea125f2518236e28761c9da/master.txt?s=1&id=29609&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",O Espetacular Homem-Aranha (2012)
-https://watch.brstream.cc/m3u8/26/95e38e97a6e3ae6c4098033e4d83abf9/master.txt?s=1&id=29584&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cyMz4OfmNqpuQ02QQOQCbGxQjwK.jpg" group-title="COLEÇÃO 🍿 HOMEM-ARANHA",O Espetacular Homem-Aranha 2 - A Ameaça de Electro (2014)
-https://watch.brstream.cc/m3u8/26/5c5bbe5fec5af08592f03045a9c009a0/master.txt?s=1&id=29590&cache=1
-
-
-########## COLEÇÃO 🍿 HARRY POTTER ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg" group-title="COLEÇÃO 🍿 HARRY POTTER",Harry Potter e a Pedra Filosofal - 2001
-https://watch.brstream.cc/m3u8/26/3ec7b0f8bc5bf7eb2a73ea78a115d94a/master.txt?s=1&id=28480&cache=1
-
-
-########## COLEÇÃO 🍿 PIRATAS DO CARIBE ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg" group-title="COLEÇÃO 🍿 PIRATAS DO CARIBE",Piratas do Caribe - A Maldição do Pérola Negra - 2003
-https://watch.brstream.cc/m3u8/26/75d52237743d661f8f60a988e9ba5989/master.txt?s=1&id=29616&cache=1
-
-
-########## COLEÇÃO 🍿 RESIDENT EVIL ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg" group-title="COLEÇÃO 🍿 RESIDENT EVIL",Resident Evil: O Hóspede Maldito - 2002
-https://watch.brstream.cc/m3u8/26/cfc948fc40dd345b6e12298c5c40ba13/master.txt?s=1&id=29528&cache=1
-
-
-########## COLEÇÃO 🍿 X-MEN ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CnPatbgtOYil7kVyL4J648Q5rk.jpg" group-title="COLEÇÃO 🍿 X-MEN",X-Men: O Filme - 2000
-https://watch.brstream.cc/m3u8/26/e73902cc3bc6c3bb0534870f6b8272e4/master.txt?s=1&id=28511&cache=1
-
-
-########## COLEÇÃO 🍿 TRANSFORMERS ##########
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg" group-title="COLEÇÃO 🍿 TRANSFORMERS",Transformers - 2007
-https://watch.brstream.cc/m3u8/26/c40d81efdade5f24d4d1181392064079/master.txt?s=1&id=29623&cache=1
