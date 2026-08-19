@@ -1,36 +1,16 @@
-#EXTM3U 
-## 📺 TV e Filme
+F#EXTM3U 
+## 📺 TV e Filmes 2.0
 ## 👩🏽‍💻 Editor: Arlesson | Rio de Janeiro | Brasil 🇧🇷
 ## 📧 Contatos e 💰 Pix para doações:
+Atualização 18/02/26 !!!
+########### CANAIS DE TV ########### 
 
-########## ♦️AREA DO CLIENTE♦️ ##########
-#EXTINF:-1 tvg-id="" tvg-name="🙏 AJUDE O SERVIDOR" tvg-logo="https://i.imgur.com/3QZqQpD.png" group-title="♦️AREA DO CLIENTE♦️",🙏 AJUDE O SERVIDOR - DOE PIX
-https://www.youtube.com/embed/1
-#EXTINF:-1 tvg-id="" tvg-name="PIX: 2198449-5371" tvg-logo="https://i.imgur.com/3QZqQpD.png" group-title="♦️AREA DO CLIENTE♦️",CHAVE PIX: 2198449-5371
-https://www.youtube.com/embed/1
-#EXTINF:-1 tvg-id="" tvg-name="QUALQUER VALOR AJUDA" tvg-logo="https://i.imgur.com/3QZqQpD.png" group-title="♦️AREA DO CLIENTE♦️",QUALQUER VALOR AJUDA - R$2 R$5 R$10
-https://www.youtube.com/embed/1
-#EXTINF:-1 tvg-id="" tvg-name="Filmes Lançamentos da Semana" tvg-logo="http://logos.imperioapps.top/LANCAMENTOS_FILMES.png" group-title="♦️AREA DO CLIENTE♦️",LANÇAMENTOS DA SEMANA 
-http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/4019393.ts
-#EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="http://logos.imperioapps.top/JOGOSDODIA.png" group-title="♦️AREA DO CLIENTE♦️",JOGOS DO DIA
-http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/223475.ts
-#EXTINF:-1 tvg-id="" tvg-name="LUTAS DO DIA UFC" tvg-logo="http://logos.imperioapps.top/LUTASDODIAUFC.png" group-title="♦️AREA DO CLIENTE♦️",LUTAS DO DIA UFC
-http://kraewert.top:80/kHCf7gDxJx3Eb4/3dEyWAtr4Fu7Rf/271869.ts
-#EXTINF:-1 tvg-id="" tvg-name="Linsta do Ton" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2lzCjuKwGdaJNm1OSRGkvoUXuTrChfHEVfGkuA-XZcNOnTFzuMM4WHDnGzfotS0fPVeaYViexb96vszIV9HsC6Ugn-TDFWv3VPF2YprOQh2xdjS48xo5rXihwCUE6Y4W7QBU3ImBscBIKoD8_bx112pQRf0hiDnYctNoIiRmOgQ7Gxe1C-L_v4V5z7Cf-/w226-h400/listadodon.jpg" group-title="♦️AREA DO CLIENTE♦️",LISTA DO DON
-
-########## FILMES LANÇAMENTOS ##########
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg" group-title="FILMES LANÇAMENTOS",Hungria: A Escolha de um Sonho - 2026
-https://watch.brstream.cc/m3u8/10/97b3628a420221f9e6f4daab23b75070/master.txt?s=1&id=40734&cache=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2bzIygGnua4tlLo7qTyMSUsME3d.jpg" group-title="FILMES LANÇAMENTOS",Corrida dos Bichos - 2026
-https://embedplay.seekplays.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/DMrkN1MZ2ANvlXcy7L_fpA/is9/fmg9ywcc/rxsli1/tt/master.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="FILMES LANÇAMENTOS",Homem-Aranha: Um Novo Dia - 2026
-https://watch.brstream.cc/m3u8/12/7fdfbdb466640e43e4da51b6295e2bf2/master.txt?s=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fteLdvfRnltfLjAEnsl5E3vImnW.jpg" group-title="FILMES LANÇAMENTOS",A Morte do Demônio: Em Chamas - 2026
-https://watch.brstream.cc/m3u8/12/443463fa02b552acd2481d29586a825b/master.txt?s=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QnpFqRbCw11QOUZ3owo7K1keW0.jpg" group-title="FILMES LANÇAMENTOS",Winterset - 2026
-https://watch.brstream.cc/m3u8/12/30627d0d71028dbab2dfc4335ba3ad32/master.txt?s=1
-
+#EXTINF:-1 tvg-id="BBB 26" tvg-name="BBB 26" tvg-logo="https://ofuxico.com.br/wp-content/uploads/2023/04/big-brother-brasil-1024x683.jpg" group-title="CANAIS DE TV",Acompanhe a casa
+https://image-storage-51.imgcontent.xyz/live/bbb26/index.m3u8
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="CANAIS DE TV",Globo News
+https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8 
+#EXTINF:-1 tvg-id="Globo rj" tvg-name="Globo rj" tvglogo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" grupo-title="CANAIS DE TV",Globo Rj 
+https://d1muf25xa03so8hp12.s27-usa-cloudfront-net.online/token/6a4b78f307475c8cb9aa4329ab173f99/globorj.m3u8 
 
 ########## FILMES 24HS ##########
 
@@ -264,8 +244,8 @@ https://watch.brstream.cc/m3u8/26/3484575740e7d74362f6a1ab0ac89a50/master.txt?s=
 https://watch.brstream.cc/m3u8/27/01f11b1dc7251b4dad589e664e28aaf6/master.txt?s=1&id=34222&cache=1
 
 ########### FILMES DE AÇÃO ###########
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nw5v0fVDuuVg2KRKEieLgsb3vbt.jpg" group-title="FILMES DE AÇÃO",Destruição Final 2 - Ação - (2025) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg" group-title="FILMES DE AÇÃO",Turbulence - Ação - (2025) 
+https://watch.brstream.cc/m3u8/12/da0276616a3e13b74f457ac86c15c3e8/master.txt?s=1&id=36533&cache=1#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nw5v0fVDuuVg2KRKEieLgsb3vbt.jpg" group-title="FILMES DE AÇÃO",Destruição Final 2 - Ação - (2025) 
 https://watch.brstream.cc/m3u8/12/da0276616a3e13b74f457ac86c15c3e8/master.txt?s=1&id=36533&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5WtE3XOgnYRkB5vagppTX9TdUOj.jpg" group-title="FILMES DE AÇÃO",Irmãos de Orfanato - Ação - (2025)  
 https://watch.brstream.cc/m3u8/12/3946286620b2e1ed380a77193fb7add7/master.txt?s=1&id=30964&cache=1
@@ -359,7 +339,8 @@ https://watch.brstream.cc/m3u8/26/8553bf408bb98c10bf0fdd4220b50329/master.txt?s=
 https://watch.brstream.cc/m3u8/26/87208431a38b263a8212d32da9222f2d/master.txt?s=1&id=27885&cache=1
 
 ########### FILMES DE CRIME###########
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2b8tnSruPQnzEJSSsI0lEsY84KJ.jpg" group-title="FILMES DE CRIME",O Demônio do Alasca - Crime - (2025)
+https://watch.brstream.cc/m3u8/10/34dc21dee723e965b9a5e5ee9c8965b1/master.txt?s=1&id=32213&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/oKAuaGHFl6opv7PCY3By9HZqSLL.jpg" group-title="FILMES DE CRIME",Caminhos do Crime - Crime - (2026)
 https://watch.brstream.cc/m3u8/12/7d81853c3b9c80746412829fcf8d2049/master.txt?s=1&id=36723&cache=1
 
@@ -451,7 +432,9 @@ https://watch.brstream.cc/m3u8/10/32b37189d500243b8277718b2ebb9192/master.txt?s=
 https://watch.brstream.cc/m3u8/12/21284c80df6ca5a2a55705829894a866/master.txt?s=1&id=38310&cache=1
 
 ########### FILMES DE SUSPENSE ###########
-
+´
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ax2ncdCKj5aWEgdWnssdqghvEnT.jpg" group-title="FILMES DE SUSPENSE",Terror no Oceano - Suspense - (2022)
+https://watch.brstream.cc/m3u8/10/8d661ad44b835f29a6494c184c21a463/master.txt?s=1&id=40456&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/1tX11KQzujSDXdszFNRvQbbNi72.jpg" group-title="FILMES DE SUSPENSE",O Som da Morte - Suspense - (2026) 
 https://watch.brstream.cc/m3u8/12/673ba172c0a9cb31b6b9223c25f4dde4/master.txt?s=1&id=36544&cache=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/s83N6x1NNlHUWQXVK2m6iRFi2iL.jpg" group-title="FILMES DE SUSPENSE",American Sweatshop - Suspense - (2025)
@@ -507,4 +490,5 @@ https://watch.brstream.cc/m3u8/26/41cb1109a21920a38bd0cfff6125fcc9/master.txt?s=
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJ3yt6ZxXJUoHA9Vf1j0i6U7s3y.jpg" group-title="DOCUMENTÁRIOS",Soberano - 2025
 https://watch.brstream.cc/m3u8/26/bfde2fdca264b06c6628212cc6589ad4/master.txt?s=1&id=34204&cache=1
+
 
